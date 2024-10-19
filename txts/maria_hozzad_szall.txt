@@ -1,0 +1,36 @@
+caption=Mária, hozzád száll / 1
+
+Mária, hozzád száll imánk,
+tiszta virága az égnek.
+Mária gyönyörű liliomszál,
+Szűzanya, téged kérlek:
+caption=Mária, hozzád száll / REF
+
+Könyörögj értem Jézusnál,
+könyörögj értem Szűzanyám,
+követni vágyom Szent Fiad,
+de túl sok a bűnöm már.
+caption=Mária, hozzád száll / 2
+
+Mária ragyogó ékesség,
+egyetlen Igen a földön.
+Egyedül tiszta és egyedül jó,
+Istenhez egyedül méltó:
+caption=Mária, hozzád száll / REF
+
+Könyörögj értem Jézusnál,
+könyörögj értem Szűzanyám,
+követni vágyom Szent Fiad,
+de túl sok a bűnöm már.
+caption=Mária, hozzád száll / 3
+
+Mária, Mária, Mária,
+Szentlélektől áldott,
+Mária hozzád esdeklem,
+könyörögj érettem:
+caption=Mária, hozzád száll / REF
+
+Könyörögj értem Jézusnál,
+könyörögj értem Szűzanyám,
+követni vágyom Szent Fiad,
+de túl sok a bűnöm már.

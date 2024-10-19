@@ -1,0 +1,365 @@
+[main]
+diaszam=36
+utf8=1
+
+[1]
+kep=evk29.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Osanna / 1 
+lines=4
+line0= 
+line1=|: Santo, santo, osanna :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[3]
+caption=Osanna / 2 
+lines=4
+line0= 
+line1=|: I cieli e la terra o Signore, sono pieni di Te :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[4]
+caption=Osanna / 3 
+lines=4
+line0= 
+line1=|: Benedetto Colui che viene nel nome del Signor :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[5]
+caption=Osanna / 4 
+lines=4
+line0= 
+line1=|: Santo, santo, osanna :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram irgalmazz Kék:159 Mise IV./1 
+lines=4
+line0= 
+line1=|: Uram irgalmazz! :| 
+line2=|: Krisztus kegyelmezz! :| 
+line3=|: Uram irgalmazz! :| 
+soundfile=
+fotofile=
+
+[7]
+caption=Dicsőség Kék:158 Mise III./4a 
+lines=3
+line0=Dicsőség! Dicsőség a magasságban Istennek! Békesség a Földön minden jószándékú embernek! 
+line1= 
+line2=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Dicsőség Kék:158 Mise III./4b 
+lines=4
+line0=Dicsőség! Istenünkhöz, jó Atyánkhoz szálljon fel! Békesség! Béke, Öröm legyen minden emberrel! 
+line1= 
+line2=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+line3=Dicsőség! Békesség! 
+soundfile=
+fotofile=
+
+[9]
+caption=Erőt adsz / 1 
+lines=7
+line0=Erőt adsz minden helyzetben, 
+line1=Te vagy a kincsem, életem, 
+line2=Te vagy a mindenem. 
+line3= 
+line4=Kereslek, mert oly drága vagy, 
+line5=Nincs mivel pótolhatnálak, 
+line6=Te vagy a mindenem. 
+soundfile=
+fotofile=
+
+[10]
+caption=Erőt adsz / REF 
+lines=3
+line0= 
+line1=|: Jézus, hű Bárány, 
+line2=áldom szent Neved. :| 
+soundfile=
+fotofile=
+
+[11]
+caption=Erőt adsz / 2 
+lines=7
+line0=Elvetted bűnöm, szégyenem, 
+line1=Köszönöm, hogy újjá lettem, 
+line2=Te vagy a mindenem. 
+line3= 
+line4=Felemelsz, hogyha elbukom, 
+line5=Szentlelked betölt, jól tudom. 
+line6=Te vagy a mindenem. 
+soundfile=
+fotofile=
+
+[12]
+caption=Erőt adsz / REF 
+lines=3
+line0= 
+line1=|: Jézus, hű Bárány, 
+line2=áldom szent Neved. :| 
+soundfile=
+fotofile=
+
+[13]
+caption=Gyönyörű vagy / 1 
+lines=5
+line0= 
+line1=Gyönyörű vagy én Uram, 
+line2=szívem mélyéből áldalak, 
+line3=szívem mélyéből áldalak. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[14]
+caption=Gyönyörű vagy / 2 
+lines=5
+line0= 
+line1=Lelked betölti életem, 
+line2=Benned ujjong, dalol szívem, 
+line3=Benned ujjong, dalol szívem. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[15]
+caption=Gyönyörű vagy / 3 
+lines=5
+line0= 
+line1=Tegyél szívedre pecsétül, 
+line2=örök életet adj végül, 
+line3=örök életet adj végül! 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[16]
+caption=Nézz, testvér, fel / REF 
+lines=3
+line0= 
+line1=Nézz, testvér, fel, az Úr van itt, lángoljon a szívünk, 
+line2=közel van már üdvösségünk, jöjj el, Jézusunk, jöjj el Jézusunk. 
+soundfile=
+fotofile=
+
+[17]
+caption=Nézz, testvér, fel / 1 
+lines=3
+line0= 
+line1=Kerestem arcodat, Uram, lehajoltál énhozzám, 
+line2=félelmek, bűnök téptek, de Te meggyógyítottál. 
+soundfile=
+fotofile=
+
+[18]
+caption=Nézz, testvér, fel / REF 
+lines=3
+line0= 
+line1=Nézz, testvér, fel, az Úr van itt, lángoljon a szívünk, 
+line2=közel van már üdvösségünk, jöjj el, Jézusunk, jöjj el Jézusunk. 
+soundfile=
+fotofile=
+
+[19]
+caption=Nézz, testvér, fel / 2 
+lines=3
+line0= 
+line1=Figyelme szeretőn kísér, meghallgatja az imám, 
+line2=gyötrelmeimben vigaszt nyújt, ezért áldja őt a szám! 
+soundfile=
+fotofile=
+
+[20]
+caption=Nézz, testvér, fel / REF 
+lines=3
+line0= 
+line1=Nézz, testvér, fel, az Úr van itt, lángoljon a szívünk, 
+line2=közel van már üdvösségünk, jöjj el, Jézusunk, jöjj el Jézusunk. 
+soundfile=
+fotofile=
+
+[21]
+caption=Szent vagy DÚR:448? Mise 
+lines=5
+line0=Szent vagy, szent vagy, szent vagy, mindenség Ura Istene! 
+line1=Dicsőséged betölti a mennyet és a földet! 
+line2=Hozsanna a magasságban! 
+line3=Áldott, aki jön az Úr nevében. 
+line4=Hozsanna a magasságban! 
+soundfile=
+fotofile=
+
+[22]
+caption=Isten báránya Kék:159 Mise IV./6 
+lines=3
+line0=Isten Báránya, te elveszed a világ bűneit, |: Irgalmazz nekünk! :| 
+line1=Isten Báránya, te elveszed a világ bűneit, |: Irgalmazz nekünk! :| 
+line2=Isten Báránya, te elveszed a világ bűneit, |: Adj nekünk békét! :| 
+soundfile=
+fotofile=
+
+[23]
+caption=Jézus, áldott legyél / A 
+lines=6
+line0=Jézus, áldott legyél, 
+line1=áldott legyél, mindörökké! 
+line2=Áldott legyél, áldott legyél! 
+line3=Amíg csak élek, dicsérlek én, 
+line4=dicsérlek én mindörökké! 
+line5=Mindörökké áldott legyél! 
+soundfile=
+fotofile=
+
+[24]
+caption=Jézus, áldott legyél / B 
+lines=6
+line0=|: Jézus! Minden szív áldjon, Uram! 
+line1=Minden ember dicsérjen téged! 
+line2=Dicsérjék neved a földön, 
+line3=dicsérjék neved a mennyben! 
+line4=Minden ember néked zengjen 
+line5=dicsőítő szent éneket! :| 
+soundfile=
+fotofile=
+
+[25]
+caption=Béke Istene 
+lines=5
+line0= 
+line1=Béke Istene szállj rám, 
+line2=jöjj el, Mennyei Bárány! 
+line3=Szíved várja a szívem, 
+line4=Jézus, légy menedékem! 
+soundfile=
+fotofile=
+
+[26]
+caption=Mária, hozzád száll / 1 
+lines=5
+line0= 
+line1=Mária, hozzád száll imánk, 
+line2=tiszta virága az égnek. 
+line3=Mária gyönyörű liliomszál, 
+line4=Szűzanya, téged kérlek: 
+soundfile=
+fotofile=
+
+[27]
+caption=Mária, hozzád száll / REF 
+lines=5
+line0= 
+line1=Könyörögj értem Jézusnál, 
+line2=könyörögj értem Szűzanyám, 
+line3=követni vágyom Szent Fiad, 
+line4=de túl sok a bűnöm már. 
+soundfile=
+fotofile=
+
+[28]
+caption=Mária, hozzád száll / 2 
+lines=5
+line0= 
+line1=Mária ragyogó ékesség, 
+line2=egyetlen Igen a földön. 
+line3=Egyedül tiszta és egyedül jó, 
+line4=Istenhez egyedül méltó: 
+soundfile=
+fotofile=
+
+[29]
+caption=Mária, hozzád száll / REF 
+lines=5
+line0= 
+line1=Könyörögj értem Jézusnál, 
+line2=könyörögj értem Szűzanyám, 
+line3=követni vágyom Szent Fiad, 
+line4=de túl sok a bűnöm már. 
+soundfile=
+fotofile=
+
+[30]
+caption=Mária, hozzád száll / 3 
+lines=5
+line0= 
+line1=Mária, Mária, Mária, 
+line2=Szentlélektől áldott, 
+line3=Mária hozzád esdeklem, 
+line4=könyörögj érettem: 
+soundfile=
+fotofile=
+
+[31]
+caption=Mária, hozzád száll / REF 
+lines=5
+line0= 
+line1=Könyörögj értem Jézusnál, 
+line2=könyörögj értem Szűzanyám, 
+line3=követni vágyom Szent Fiad, 
+line4=de túl sok a bűnöm már. 
+soundfile=
+fotofile=
+
+[32]
+caption=Osanna / 1 
+lines=4
+line0= 
+line1=|: Santo, santo, osanna :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[33]
+caption=Osanna / 2 
+lines=4
+line0= 
+line1=|: I cieli e la terra o Signore, sono pieni di Te :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[34]
+caption=Osanna / 3 
+lines=4
+line0= 
+line1=|: Benedetto Colui che viene nel nome del Signor :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[35]
+caption=Osanna / 4 
+lines=4
+line0= 
+line1=|: Santo, santo, osanna :| 
+line2= 
+line3=|: Osanna eh, osanna eh, osanna a Cristo signor :| 
+soundfile=
+fotofile=
+
+[36]
+kep=evk29.png 
+soundfile=
+fotofile=

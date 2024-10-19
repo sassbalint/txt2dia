@@ -7,13 +7,19 @@ Convert simple txt content to "Diatar" `.dia` format.
 make process
 ```
 
-to create `out.dia` processing all `.txt` files in directory `txts`, or
+to create `outs/out.dia` processing all `.txt` files in directory `txts`, or
 
 ```
 make process I="txts/0[14569]* txts/1[01]*" O=outs/out_c.dia
 ```
 
-to create `out_c.dia` from the same data omitting the unchanging parts.
+to create `outs/out_c.dia` from the same data omitting the unchanging parts.
+
+```
+make 20241020
+```
+
+to create `outs/20241020.dia` for this particular Sunday
 
 ```
 cat FILES | python3 script/txt2dia.py | sed "s/$/^M/" > outs/OUTPUT.dia

@@ -11,7 +11,7 @@ def main():
     slides = [] # list of list of lines
 
     for line in map(lambda x: x.strip(), sys.stdin):
-        if line.startswith('caption='):
+        if line.startswith('caption=') or line.startswith('kep='):
             slides.append([])
         slides[-1].append(line)
 
@@ -28,7 +28,7 @@ utf8=1""")
         caption = slide.pop(0)
         print(f"{caption} ") # add space
 
-        print(f"lines={len(slide)}")
+        if len(slide) > 0: print(f"lines={len(slide)}")
 
         for cnt_line, line in enumerate(slide):
             print(f"line{cnt_line}={line} ") # add space
