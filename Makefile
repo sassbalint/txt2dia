@@ -5,7 +5,7 @@ all:
 
 S=scripts
 I=txts/*
-O=out.dia
+O=outs/out.dia
 
 
 # ===== MAIN STUFF 

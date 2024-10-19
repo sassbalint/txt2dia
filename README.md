@@ -10,13 +10,13 @@ make process
 to create `out.dia` processing all `.txt` files in directory `txts`, or
 
 ```
-make process I="txts/0[14569]* txts/1[01]*" O=out_c.dia
+make process I="txts/0[14569]* txts/1[01]*" O=outs/out_c.dia
 ```
 
 to create `out_c.dia` from the same data omitting the unchanging parts.
 
 ```
-cat FILES | python3 script/txt2dia.py | sed "s/$/^M/" > OUTPUT.dia
+cat FILES | python3 script/txt2dia.py | sed "s/$/^M/" > outs/OUTPUT.dia
 ```
 
 to process arbitrary input FILES.
