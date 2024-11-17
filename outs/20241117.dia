@@ -1,0 +1,354 @@
+[main]
+diaszam=32
+utf8=1
+
+[1]
+kep=evk33.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Jöjj, itt az idő / 1 
+lines=5
+line0= 
+line1=Jöjj, itt az idő, hogy dicsérd! 
+line2=Jöjj, itt az idő, hogy átadd szíved! 
+line3=Jöjj úgy, ahogy vagy, és dicsérd! 
+line4=Jöjj úgy, ahogy vagy az Úr elé! Hát jöjj! 
+soundfile=
+fotofile=
+
+[3]
+caption=Jöjj, itt az idő / REF 
+lines=5
+line0= 
+line1=Egyszer minden nyelv megvallja, hogy Ő az Úr, 
+line2=és mindenki térdet hajt. 
+line3=A legnagyobb kincs mégis azokra vár, 
+line4=Kik most Őt választják! 
+soundfile=
+fotofile=
+
+[4]
+caption=Jöjj, itt az idő / 2 
+lines=5
+line0= 
+line1=Jöjj, itt az idő, hogy ébredj! 
+line2=Jöjj, itt az idő, hogy áldjuk Őt! 
+line3=Jöjj, szívedet add az Úrnak! 
+line4=Jöjj, imádd az Istent, úgy, ahogy vagy! Hát jöjj! 
+soundfile=
+fotofile=
+
+[5]
+caption=Jöjj, itt az idő / REF 
+lines=5
+line0= 
+line1=Egyszer minden nyelv megvallja, hogy Ő az Úr, 
+line2=és mindenki térdet hajt. 
+line3=A legnagyobb kincs mégis azokra vár, 
+line4=Kik most Őt választják! 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram irgalmazz Kék:159 Mise IV./1 
+lines=4
+line0= 
+line1=|: Uram irgalmazz! :| 
+line2=|: Krisztus kegyelmezz! :| 
+line3=|: Uram irgalmazz! :| 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dícsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[9]
+caption=Teremts bennem 
+lines=6
+line0=|: Teremts bennem tiszta szívet, ó, Uram! 
+line1=Az erős lelket újítsd meg bennem! :| 
+line2=|: Ne vess el engem a Te orcád elől, 
+line3=Szentlelked ne vond meg tőlem! 
+line4=Támogass az engedelmesség lelkével, 
+line5=Szabadításod örömét add nekem! :| 
+soundfile=
+fotofile=
+
+[10]
+caption=Gyönyörű vagy / 1 
+lines=5
+line0= 
+line1=Gyönyörű vagy én Uram, 
+line2=szívem mélyéből áldalak, 
+line3=szívem mélyéből áldalak. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[11]
+caption=Gyönyörű vagy / 2 
+lines=5
+line0= 
+line1=Lelked betölti életem, 
+line2=Benned ujjong, dalol szívem, 
+line3=Benned ujjong, dalol szívem. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[12]
+caption=Gyönyörű vagy / 3 
+lines=5
+line0= 
+line1=Tegyél szívedre pecsétül, 
+line2=örök életet adj végül, 
+line3=örök életet adj végül! 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[13]
+caption=Ízleld és lásd / 1 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=|: Boldog ember az, ki benne bízik! :| 
+soundfile=
+fotofile=
+
+[14]
+caption=Ízleld és lásd / 2 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=Ő jó, Ő jó, Ő jó! 
+soundfile=
+fotofile=
+
+[15]
+caption=Szent vagy DÚR:448? Mise 
+lines=5
+line0=Szent vagy, szent vagy, szent vagy, mindenség Ura Istene! 
+line1=Dicsőséged betölti a mennyet és a földet! 
+line2=Hozsanna a magasságban! 
+line3=Áldott, aki jön az Úr nevében. 
+line4=Hozsanna a magasságban! 
+soundfile=
+fotofile=
+
+[16]
+caption=Isten báránya Kék:159 Mise IV./6 
+lines=3
+line0=Isten Báránya, te elveszed a világ bűneit, |: Irgalmazz nekünk! :| 
+line1=Isten Báránya, te elveszed a világ bűneit, |: Irgalmazz nekünk! :| 
+line2=Isten Báránya, te elveszed a világ bűneit, |: Adj nekünk békét! :| 
+soundfile=
+fotofile=
+
+[17]
+caption=Nan néga csotá / 1v 
+lines=8
+line0=그냥 난 네가 좋다 
+line1=Künjang nan néga csota, 
+line2=그냥 난 너라서 좋다 
+line3=künjang nan noraszo csota. 
+line4=다른 건 내게 중요치 않다 
+line5=Tarün gon négé csung-jucsi anda, 
+line6=너 죄 있든 없든 난 너만을 사랑한다 
+line7=no csé iten obten nan nomanül szaranghanda. 
+soundfile=
+fotofile=
+
+[18]
+caption=Nan néga csotá / 2 
+lines=8
+line0=그냥 난 네가 좋다 
+line1=Künjang nan néga csota, 
+line2=그냥 난 너라서 좋다 
+line3=künjang nan noraszo csota. 
+line4=그냥 네 모든 게 좋다 
+line5=Künjang ne modün ge csota, 
+line6=난 영원히 너만을 사랑한다 
+line7=nan jong-voni nomanül szaranghanda. 
+soundfile=
+fotofile=
+
+[19]
+caption=Meghívtál, hogy vízre lépjek / 1 
+lines=5
+line0= 
+line1=Meghívtál, hogy vízre lépjek, 
+line2=hol Nélküled elsüllyedek. 
+line3=Ebben megtalállak Téged, 
+line4=a mélységben megtart hitem. 
+soundfile=
+fotofile=
+
+[20]
+caption=Meghívtál, hogy vízre lépjek / REF 
+lines=6
+line0= 
+line1=Nagy Neved hívom én, 
+line2=és felnézek a vizek fölé. 
+line3=Ott látlak én, 
+line4=a lelkem Benned megpihen. 
+line5=Enyém vagy és én Tied. 
+soundfile=
+fotofile=
+
+[21]
+caption=Meghívtál, hogy vízre lépjek / 2 
+lines=5
+line0= 
+line1=A mélységnél nagyobb kegyelmed, 
+line2=mely elvezet és tart engem. 
+line3=Ha elbuknék és nagyon félnék, 
+line4=Te nem hagysz el, nem inogsz meg. 
+soundfile=
+fotofile=
+
+[22]
+caption=Meghívtál, hogy vízre lépjek / REF 
+lines=6
+line0= 
+line1=Nagy Neved hívom én, 
+line2=és felnézek a vizek fölé. 
+line3=Ott látlak én, 
+line4=a lelkem Benned megpihen. 
+line5=Enyém vagy és én Tied. 
+soundfile=
+fotofile=
+
+[23]
+caption=Meghívtál, hogy vízre lépjek / közép 
+lines=5
+line0= 
+line1=|: Lélek add, hogy Benned teljesen megbízzak, 
+line2=A vízen bátran Veled járjak, bárhová hívsz, menjek. 
+line3=Vigyél tovább, mint a lábam tudna menni. 
+line4=Taníts teljes hittel járni, jelenlétedben élni. :| 
+soundfile=
+fotofile=
+
+[24]
+caption=Meghívtál, hogy vízre lépjek / REF 
+lines=5
+line0= 
+line1=Nagy Neved hívom én, 
+line2=és felnézek a vizek fölé. 
+line3=A lelkem Benned megpihen. 
+line4=Enyém vagy és én Tiéd. 
+soundfile=
+fotofile=
+
+[25]
+caption=Szent Márton hó és szél nyomán / 1 
+lines=5
+line0= 
+line1=Szent Mártont hó és szél nyomán 
+line2=A ló viszi, de vágtat ám 
+line3=Szent Márton kedve jó vagyon 
+line4=|: Meleg kabátja, hej nagyon :| 
+soundfile=
+fotofile=
+
+[26]
+caption=Szent Márton hó és szél nyomán / 2 
+lines=5
+line0= 
+line1=A hóban rongyos ember ül 
+line2=Ruhája folt csak egyedül 
+line3=„Segítsetek a nagy bajon 
+line4=|: Mert végem lesz, ha megfagyok” :| 
+soundfile=
+fotofile=
+
+[27]
+caption=Szent Márton hó és szél nyomán / 3 
+lines=5
+line0= 
+line1=Szent Márton int a ló megáll 
+line2=És csöndben áll a koldusnál 
+line3=Szent Márton kardja gyorsan vág 
+line4=|: Kabátja félbe tépve már :| 
+soundfile=
+fotofile=
+
+[28]
+caption=Szent Márton hó és szél nyomán / 4 
+lines=5
+line0= 
+line1=Szent Márton fél kabátot ad 
+line2=A hála érte már fakad 
+line3=De Márton gyorsan lóra száll 
+line4=|: A másik féllel meg sem áll :| 
+soundfile=
+fotofile=
+
+[29]
+caption=Szent Márton hó és szél nyomán / 5 
+lines=5
+line0= 
+line1=Álmában jő egy tiszta fény 
+line2=És lágyan kélő hang beszél 
+line3=„Amit te tettél jó lovag 
+line4=|: A hálám érte elfogadd!” :| 
+soundfile=
+fotofile=
+
+[30]
+caption=Nan néga csotá / 1v 
+lines=8
+line0=그냥 난 네가 좋다 
+line1=Künjang nan néga csota, 
+line2=그냥 난 너라서 좋다 
+line3=künjang nan noraszo csota. 
+line4=다른 건 내게 중요치 않다 
+line5=Tarün gon négé csung-jucsi anda, 
+line6=너 죄 있든 없든 난 너만을 사랑한다 
+line7=no csé iten obten nan nomanül szaranghanda. 
+soundfile=
+fotofile=
+
+[31]
+caption=Nan néga csotá / 2 
+lines=8
+line0=그냥 난 네가 좋다 
+line1=Künjang nan néga csota, 
+line2=그냥 난 너라서 좋다 
+line3=künjang nan noraszo csota. 
+line4=그냥 네 모든 게 좋다 
+line5=Künjang ne modün ge csota, 
+line6=난 영원히 너만을 사랑한다 
+line7=nan jong-voni nomanül szaranghanda. 
+soundfile=
+fotofile=
+
+[32]
+kep=evk33.png 
+soundfile=
+fotofile=
