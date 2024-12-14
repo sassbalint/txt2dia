@@ -1,0 +1,16 @@
+caption=Indulj és menj / 1
+
+Indulj és menj, hirdesd szavam, népemhez küldelek én!
+Tövis és gaz, vér és panasz, meddig hallgassam még én?
+caption=Indulj és menj / REF
+
+Küldelek én, megáldlak én, csak menj, és hirdesd szavam!
+Küldelek én, megáldlak én, csak menj, és hirdesd szavam!
+caption=Indulj és menj / 2
+
+Tüzessé teszem ajkaidat, gyémánttá homlokodat,
+Népemnek őrévé rendellek én, lelkemet adom melléd!
+caption=Indulj és menj / REF
+
+Küldelek én, megáldlak én, csak menj, és hirdesd szavam!
+Küldelek én, megáldlak én, csak menj, és hirdesd szavam!

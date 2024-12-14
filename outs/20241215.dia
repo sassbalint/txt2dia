@@ -1,0 +1,361 @@
+[main]
+diaszam=35
+utf8=1
+
+[1]
+kep=adv3.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Advent / 1 
+lines=4
+line0=Sötét fenn az ég, fény sehol sem ég, 
+line1=az arcomra álmos köd szitál; 
+line2=Süket, sűrű csönd, némaság köszönt, 
+line3=és senki nincs ki fénylő jelet gyújtson az éjszakán. 
+soundfile=
+fotofile=
+
+[3]
+caption=Advent / REF 
+lines=4
+line0=Jöjj el hát Istenem, lobbants lángot az éjjelen, 
+line1=élő irgalmadat terjeszd ki fölénk! 
+line2=Jöjj el hát Istenem, nyíljon már ki a végtelen, 
+line3=jöjj el gyermekarcú Isten, szállj közénk! 
+soundfile=
+fotofile=
+
+[4]
+caption=Advent / 2 
+lines=4
+line0=Földünk puszta rom, jöjj el Irgalom, 
+line1=jöttöd reményt, megváltást ígér; 
+line2=minden elveszett, ne hagyd népedet, 
+line3=hiányod a szívekben már a földtől az égig ér. 
+soundfile=
+fotofile=
+
+[5]
+caption=Advent / REF 
+lines=4
+line0=Jöjj el hát Istenem, lobbants lángot az éjjelen, 
+line1=élő irgalmadat terjeszd ki fölénk! 
+line2=Jöjj el hát Istenem, nyíljon már ki a végtelen, 
+line3=jöjj el gyermekarcú Isten, szállj közénk! 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram irgalmazz Kék:159 Mise IV./1 
+lines=4
+line0= 
+line1=|: Uram irgalmazz! :| 
+line2=|: Krisztus kegyelmezz! :| 
+line3=|: Uram irgalmazz! :| 
+soundfile=
+fotofile=
+
+[7]
+caption=A szeleknek / 1 
+lines=5
+line0=A szeleknek élénk szárnyán, a föld felett bátran szállván 
+line1=Zengedezzünk néked szép csillag. 
+line2= 
+line3=Vizek felett, népek felett, egy nagy csillag fényt hinteget, 
+line4=Zengedezzünk néked szép csillag. 
+soundfile=
+fotofile=
+
+[8]
+caption=A szeleknek / 2 
+lines=5
+line0=Mikor az a csillag kigyúlt, a többi mind elhalványult, 
+line1=Zengedezzünk néked szép csillag. 
+line2= 
+line3=Ez a csillag megjósolta, hogy a világ megújula, 
+line4=Zengedezzünk néked szép csillag. 
+soundfile=
+fotofile=
+
+[9]
+caption=Ébredj, ember / 1 
+lines=6
+line0=Ébredj ember mély álmodból, 
+line1=Jézus megment rabságodból! 
+line2=Hogyha hívod, eljön Ő, 
+line3=egész bensőm imádjad Őt! 
+line4= 
+line5=Alleluja ... 
+soundfile=
+fotofile=
+
+[10]
+caption=Ébredj, ember / 2 
+lines=6
+line0=Áldjad lelkem az Úr nevét, 
+line1=mert megtartja ígéretét, 
+line2=Mennyi jót tett az Úr velem, 
+line3=Reá bízom az életem. 
+line4= 
+line5=Alleluja ... 
+soundfile=
+fotofile=
+
+[11]
+caption=Gabriel's message / 1 
+lines=4
+line0=The angel Gabriel from Heaven came, 
+line1=His wings as drifted snow, His eyes as flame; 
+line2=“All hail” said he “thou lowly maiden Mary, 
+line3=Most highly favored lady,” Gloria! 
+soundfile=
+fotofile=
+
+[12]
+caption=Gabriel's message / 2 
+lines=4
+line0=“For known a blessed Mother thou shalt be 
+line1=All generations laud and honor thee, 
+line2=Thy Son shall be Emmanuel, by seers foretold, 
+line3=Most highly favored lady” Gloria! 
+soundfile=
+fotofile=
+
+[13]
+caption=Gabriel's message / 3 
+lines=4
+line0=Then gentle Mary meekly bowed her head, 
+line1=“To me be as it pleaseth God” she said, 
+line2=“My soul shall laud and magnify His holy name.” 
+line3=Most highly favored lady, Gloria! 
+soundfile=
+fotofile=
+
+[14]
+caption=Gabriel's message / 4 
+lines=5
+line0=Of her, Emmanuel, the Christ, was born 
+line1=in Betlehem, all on a Christmas morn, 
+line2=and Christian folk throughout the world will ever say 
+line3=“Most highly favored lady, Gloria!” 
+line4= 
+soundfile=
+fotofile=
+
+[15]
+caption=Szent vagy DÚR:448? Mise 
+lines=5
+line0=Szent vagy, szent vagy, szent vagy, mindenség Ura Istene! 
+line1=Dicsőséged betölti a mennyet és a földet! 
+line2=Hozsanna a magasságban! 
+line3=Áldott, aki jön az Úr nevében. 
+line4=Hozsanna a magasságban! 
+soundfile=
+fotofile=
+
+[16]
+caption=Isten báránya Kék:159 Mise IV./6 
+lines=3
+line0=Isten Báránya, te elveszed a világ bűneit, |: Irgalmazz nekünk! :| 
+line1=Isten Báránya, te elveszed a világ bűneit, |: Irgalmazz nekünk! :| 
+line2=Isten Báránya, te elveszed a világ bűneit, |: Adj nekünk békét! :| 
+soundfile=
+fotofile=
+
+[17]
+caption=Hívlak, Jézus / 1 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=Minden szív és gondolat felett, 
+line3=Mert jelenlétedből békesség árad, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[18]
+caption=Hívlak, Jézus / 2 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=Minden sötét függőség felett, 
+line3=Mert van remény és van teljes szabadság, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[19]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. 
+soundfile=
+fotofile=
+
+[20]
+caption=Hívlak, Jézus / 3 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=A félelem és szorongás felett, 
+line3=A csüggedés vermében szenvedőkért 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[21]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=|: A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. :| 
+soundfile=
+fotofile=
+
+[22]
+caption=Hívlak, Jézus / B 
+lines=6
+line0=|: A hegytetőkről zengjen, 
+line1=Az utcán hirdessék, 
+line2=A sötétségen át kiáltsuk 
+line3=Jézus nagy nevét, 
+line4=Egész családomra 
+line5=Ragyogjon fel e név: Jézus :| 
+soundfile=
+fotofile=
+
+[23]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=|: A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. :| 
+soundfile=
+fotofile=
+
+[24]
+caption=Hívlak, Jézus / 1 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus! 
+line2=Minden szív és gondolat felett, 
+line3=Mert jelenlétedből békesség árad, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[25]
+caption=Ízleld és lásd / 1 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=|: Boldog ember az, ki benne bízik! :| 
+soundfile=
+fotofile=
+
+[26]
+caption=Ízleld és lásd / 2 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=Ő jó, Ő jó, Ő jó! 
+soundfile=
+fotofile=
+
+[27]
+caption=Indulj és menj / 1 
+lines=3
+line0= 
+line1=Indulj és menj, hirdesd szavam, népemhez küldelek én! 
+line2=Tövis és gaz, vér és panasz, meddig hallgassam még én? 
+soundfile=
+fotofile=
+
+[28]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=
+
+[29]
+caption=Indulj és menj / 2 
+lines=3
+line0= 
+line1=Tüzessé teszem ajkaidat, gyémánttá homlokodat, 
+line2=Népemnek őrévé rendellek én, lelkemet adom melléd! 
+soundfile=
+fotofile=
+
+[30]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=
+
+[31]
+caption=Gabriel's message / 1 
+lines=4
+line0=The angel Gabriel from Heaven came, 
+line1=His wings as drifted snow, His eyes as flame; 
+line2=“All hail” said he “thou lowly maiden Mary, 
+line3=Most highly favored lady,” Gloria! 
+soundfile=
+fotofile=
+
+[32]
+caption=Gabriel's message / 2 
+lines=4
+line0=“For known a blessed Mother thou shalt be 
+line1=All generations laud and honor thee, 
+line2=Thy Son shall be Emmanuel, by seers foretold, 
+line3=Most highly favored lady” Gloria! 
+soundfile=
+fotofile=
+
+[33]
+caption=Gabriel's message / 3 
+lines=4
+line0=Then gentle Mary meekly bowed her head, 
+line1=“To me be as it pleaseth God” she said, 
+line2=“My soul shall laud and magnify His holy name.” 
+line3=Most highly favored lady, Gloria! 
+soundfile=
+fotofile=
+
+[34]
+caption=Gabriel's message / 4 
+lines=5
+line0=Of her, Emmanuel, the Christ, was born 
+line1=in Betlehem, all on a Christmas morn, 
+line2=and Christian folk throughout the world will ever say 
+line3=“Most highly favored lady, Gloria!” 
+line4= 
+soundfile=
+fotofile=
+
+[35]
+kep=adv3.png 
+soundfile=
+fotofile=
