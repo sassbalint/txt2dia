@@ -1,0 +1,10 @@
+caption=Add a kezed, hogy / 1
+Add a kezed, hogy zengjünk az Úrnak, zengjünk az Úrnak alleluját.
+Add a kezed, hogy zengjünk az Úrnak, zengjünk az Úrnak alleluját.
+
+Alleluja ...
+caption=Add a kezed, hogy / 2
+Kitárt karokkal mindenki áldja, mindenki áldja az élet Urát!
+Ujjongó szívvel zengjünk az Úrnak, zengjünk az Úrnak alleluját.
+
+Alleluja ...

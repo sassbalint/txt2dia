@@ -2,7 +2,18 @@ caption=Tied a dicsőség / 1
 
 |: Tied a dicsőség és imádás,
 Felemeljük kezeinket,
-Így dícsérjük szent neved. :|
+Így dicsérjük szent neved. :|
+caption=Tied a dicsőség / 2
+
+|: Ó, hatalmas, kezed nagy csodákat tesz,
+Veled senki nem ér fel,
+Veled senki nem ér fel! :|
+Ó, hatalmas!
+caption=Tied a dicsőség / 1
+
+|: Tied a dicsőség és imádás,
+Felemeljük kezeinket,
+Így dicsérjük szent neved. :|
 caption=Tied a dicsőség / 2
 
 |: Ó, hatalmas, kezed nagy csodákat tesz,

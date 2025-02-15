@@ -1,0 +1,23 @@
+caption=Itt vagyok végre / 1
+Itt vagyok végre, jó Uram,
+nehéz és hosszú volt utam,
+szólnék Hozzád, nem tudok,
+szememben látod, mit akarok!
+caption=Itt vagyok végre / 2
+Eljöttem Hozzád, itt vagyok,
+szomjas és éhes vándorod!
+Asztalodról adj ennem,
+s boldog lesz az életem!
+caption=Itt vagyok végre / 1
+Itt vagyok végre, jó Uram,
+nehéz és hosszú volt utam,
+szólnék Hozzád, nem tudok,
+szememben látod, mit akarok!
+caption=Itt vagyok végre / 2 kódával
+Eljöttem Hozzád, itt vagyok,
+szomjas és éhes vándorod!
+Asztalodról adj ennem,
+s boldog lesz az életem!
+
+Eljöttem Hozzád, itt vagyok,
+eljöttem Hozzád, itt vagyok!

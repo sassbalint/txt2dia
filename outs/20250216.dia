@@ -1,0 +1,634 @@
+[main]
+diaszam=51
+utf8=1
+
+[1]
+kep=evk6.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Itt vagyok végre / 1 
+lines=4
+line0=Itt vagyok végre, jó Uram, 
+line1=nehéz és hosszú volt utam, 
+line2=szólnék Hozzád, nem tudok, 
+line3=szememben látod, mit akarok! 
+soundfile=
+fotofile=
+
+[3]
+caption=Itt vagyok végre / 2 
+lines=4
+line0=Eljöttem Hozzád, itt vagyok, 
+line1=szomjas és éhes vándorod! 
+line2=Asztalodról adj ennem, 
+line3=s boldog lesz az életem! 
+soundfile=
+fotofile=
+
+[4]
+caption=Itt vagyok végre / 1 
+lines=4
+line0=Itt vagyok végre, jó Uram, 
+line1=nehéz és hosszú volt utam, 
+line2=szólnék Hozzád, nem tudok, 
+line3=szememben látod, mit akarok! 
+soundfile=
+fotofile=
+
+[5]
+caption=Itt vagyok végre / 2 kódával 
+lines=7
+line0=Eljöttem Hozzád, itt vagyok, 
+line1=szomjas és éhes vándorod! 
+line2=Asztalodról adj ennem, 
+line3=s boldog lesz az életem! 
+line4= 
+line5=Eljöttem Hozzád, itt vagyok, 
+line6=eljöttem Hozzád, itt vagyok! 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram, irgalmazz (Bonifác) 
+lines=3
+line0=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+line1=Christe eleison. Christe eleison. Christe eleison. 
+line2=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[9]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[10]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[11]
+caption=Röpke fohász DÚR:160 / REF 
+lines=5
+line0= 
+line1=|: Röpke fohászként száll a dal 
+line2=Égbe szárnyaló madár, 
+line3=Fészkét elhagyta már, 
+line4=Hozzád talál. :| 
+soundfile=
+fotofile=
+
+[12]
+caption=Röpke fohász DÚR:160 / 1 
+lines=7
+line0=Élsz, vagy utazol bárhol, 
+line1=De Hozzá szól a szív, 
+line2=Bánat ér vagy öröm táncra hív. 
+line3=Mint forrás tört fel a sóhaj, 
+line4=Mint tenger árad a hála. 
+line5=Hallja Ő, egy szó elég, 
+line6=Az egekig felér! 
+soundfile=
+fotofile=
+
+[13]
+caption=Röpke fohász DÚR:160 / REF 
+lines=5
+line0= 
+line1=|: Röpke fohászként száll a dal 
+line2=Égbe szárnyaló madár, 
+line3=Fészkét elhagyta már, 
+line4=Hozzád talál. :| 
+soundfile=
+fotofile=
+
+[14]
+caption=Add a kezed, hogy / 1 
+lines=4
+line0=Add a kezed, hogy zengjünk az Úrnak, zengjünk az Úrnak alleluját. 
+line1=Add a kezed, hogy zengjünk az Úrnak, zengjünk az Úrnak alleluját. 
+line2= 
+line3=Alleluja ... 
+soundfile=
+fotofile=
+
+[15]
+caption=Add a kezed, hogy / 2 
+lines=4
+line0=Kitárt karokkal mindenki áldja, mindenki áldja az élet Urát! 
+line1=Ujjongó szívvel zengjünk az Úrnak, zengjünk az Úrnak alleluját. 
+line2= 
+line3=Alleluja ... 
+soundfile=
+fotofile=
+
+[16]
+caption=Eléd lépek DÚR:12 / 1 
+lines=8
+line0=Eléd lépek jó Uram, 
+line1=Hol béke és nyugalom vár, 
+line2=Vágyom, hogy érints lelkeddel, 
+line3=Hogy múljék, ami fáj. 
+line4=Hiszem, hogy itt vagy közöttünk, 
+line5=És halkan szelíden hívsz, 
+line6=És mi társaid leszünk örökké, 
+line7=Hol boldog dalát zengi minden szív. 
+soundfile=
+fotofile=
+
+[17]
+caption=Eléd lépek DÚR:12 / REF 
+lines=5
+line0= 
+line1=|: Áldom az Urat míg élek, 
+line2=És szeretem örökké, 
+line3=Örömmel mondok hálát 
+line4=A világon mindenért. :| 
+soundfile=
+fotofile=
+
+[18]
+caption=Eléd lépek DÚR:12 / 2 
+lines=8
+line0=Közénk térdelsz jó Urunk, 
+line1=Féltő szeretettel, 
+line2=És egy új életnek boldogsága 
+line3=Érző szívre lel. 
+line4=Tudom, hogy itt vagy közöttünk, 
+line5=És halkan szelíden hívsz, 
+line6=És mi társaid leszünk örökké, 
+line7=Hol boldog dalát zengi minden szív. 
+soundfile=
+fotofile=
+
+[19]
+caption=Eléd lépek DÚR:12 / REF 
+lines=7
+line0= 
+line1=|: Áldom az Urat míg élek, 
+line2=És szeretem örökké, 
+line3=Örömmel mondok hálát 
+line4=A világon mindenért. :| 
+line5= 
+line6=A világon mindenért. 
+soundfile=
+fotofile=
+
+[20]
+caption=Szent vagy (Bonifác) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus, Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+soundfile=
+fotofile=
+
+[21]
+caption=Isten báránya (Bonifác) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi, dona nobis pacem. 
+soundfile=
+fotofile=
+
+[22]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[23]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[24]
+caption=Pyhän kosketus / 1 
+lines=9
+line0=Joskus ajaton kohtaa ajan, 
+line1=silloin Jumalan aavistaa. 
+line2=Joskus rajaton rikkoo rajan, 
+line3=silloin Pyhä koskettaa. 
+line4= 
+line5=\INéha az időtlen találkozik az idővel, 
+line6=a jövendölések beteljesednek. 
+line7=Néha a határtalan áttöri a határt, 
+line8=és megérint a Szent.\i 
+soundfile=
+fotofile=
+
+[25]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[26]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[27]
+caption=Pyhän kosketus / 2 
+lines=9
+line0=Joskus palavan pensaan lailla 
+line1=Luoja kasvonsa paljastaa. 
+line2=Joskus puhuu Hän sanoja vailla, 
+line3=silloin Pyhä koskettaa. 
+line4= 
+line5=\INéha mint egy égő bokor 
+line6=a Teremtő felfedi arcát. 
+line7=Néha szavak nélkül beszél, 
+line8=és megérint a Szent.\i 
+soundfile=
+fotofile=
+
+[28]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[29]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[30]
+caption=Pyhän kosketus / 3 
+lines=9
+line0=Joskus kaatuvat vanhat kaavat, 
+line1=Tuomas Mestarin nähdä saa, 
+line2=tarttuu käteen ja tuntee haavat. 
+line3=Silloin Pyhä koskettaa. 
+line4= 
+line5=\INéha szétesnek a régi minták, 
+line6=Tamás apostol látja, 
+line7=megfogja a kezét, és tapintja a sebeket. 
+line8=És megérint a Szent.\i 
+soundfile=
+fotofile=
+
+[31]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[32]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[33]
+caption=Csak Jézusnak / REF 
+lines=4
+line0=Csak Jézusnak szolgálok, 
+line1=Az Ő országát várom, 
+line2=Mert eljön Ő, az Üdvözítő. 
+line3=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[34]
+caption=Csak Jézusnak / 1 
+lines=4
+line0=Áldjad, lelkem, Őt, dicsérd Teremtőd 
+line1=Most és mindörökké! Amen. 
+line2=Áldja minden nép dicső, szent nevét 
+line3=Most és mindörökké! Amen. 
+soundfile=
+fotofile=
+
+[35]
+caption=Csak Jézusnak / REF 
+lines=4
+line0=Csak Jézusnak szolgálok, 
+line1=Az Ő országát várom, 
+line2=Mert eljön Ő, az Üdvözítő. 
+line3=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[36]
+caption=Csak Jézusnak / 2 
+lines=4
+line0=Hálát adjatok, áldást mondjatok 
+line1=Most és mindörökké! Amen. 
+line2=Egyházad dicsér, nagy jóságodért 
+line3=Most és mindörökké! Amen. 
+soundfile=
+fotofile=
+
+[37]
+caption=Csak Jézusnak / REF 
+lines=4
+line0=Csak Jézusnak szolgálok, 
+line1=Az Ő országát várom, 
+line2=Mert eljön Ő, az Üdvözítő. 
+line3=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[38]
+caption=Csak Jézusnak / 3 
+lines=4
+line0=Erős vár az Úr, menedéket nyújt 
+line1=Most és mindörökké! Amen. 
+line2=Áldott irgalom, véred oltalom 
+line3=Most és mindörökké! Amen. 
+soundfile=
+fotofile=
+
+[39]
+caption=Csak Jézusnak / REF 
+lines=4
+line0=Csak Jézusnak szolgálok, 
+line1=Az Ő országát várom, 
+line2=Mert eljön Ő, az Üdvözítő. 
+line3=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[40]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[41]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[42]
+caption=Pyhän kosketus / 1 
+lines=9
+line0=Joskus ajaton kohtaa ajan, 
+line1=silloin Jumalan aavistaa. 
+line2=Joskus rajaton rikkoo rajan, 
+line3=silloin Pyhä koskettaa. 
+line4= 
+line5=\INéha az időtlen találkozik az idővel, 
+line6=a jövendölések beteljesednek. 
+line7=Néha a határtalan áttöri a határt, 
+line8=és megérint a Szent.\i 
+soundfile=
+fotofile=
+
+[43]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[44]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[45]
+caption=Pyhän kosketus / 2 
+lines=9
+line0=Joskus palavan pensaan lailla 
+line1=Luoja kasvonsa paljastaa. 
+line2=Joskus puhuu Hän sanoja vailla, 
+line3=silloin Pyhä koskettaa. 
+line4= 
+line5=\INéha mint egy égő bokor 
+line6=a Teremtő felfedi arcát. 
+line7=Néha szavak nélkül beszél, 
+line8=és megérint a Szent.\i 
+soundfile=
+fotofile=
+
+[46]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[47]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[48]
+caption=Pyhän kosketus / 3 
+lines=9
+line0=Joskus kaatuvat vanhat kaavat, 
+line1=Tuomas Mestarin nähdä saa, 
+line2=tarttuu käteen ja tuntee haavat. 
+line3=Silloin Pyhä koskettaa. 
+line4= 
+line5=\INéha szétesnek a régi minták, 
+line6=Tamás apostol látja, 
+line7=megfogja a kezét, és tapintja a sebeket. 
+line8=És megérint a Szent.\i 
+soundfile=
+fotofile=
+
+[49]
+caption=Pyhän kosketus / REF1 
+lines=9
+line0=Riisu kengät, maa jolla seisot on Herran. 
+line1=Pyhää ja puhdasta maata, 
+line2=katso ja kuuntele hiljaa, 
+line3=vaikka paljon et ymmärtää saata. 
+line4= 
+line5=\IVedd le a cipődet, a föld, amin állsz, az Úré. 
+line6=Szent és tiszta föld, 
+line7=nézz és figyelj csendben, 
+line8=még ha nem is értesz sokat.\i 
+soundfile=
+fotofile=
+
+[50]
+caption=Pyhän kosketus / REF2 
+lines=9
+line0=Paina pääsi, maa jolla seisot on Herran. 
+line1=Hän itse puhuu ja kuulee. 
+line2=Koskettaa meitä kuin viljaa 
+line3=sillä Jumalan pelloilla tuulee. 
+line4= 
+line5=\IHajtsd meg fejedet, a föld, amin állsz, az Úré. 
+line6=Ő maga szól hozzád és meghallgat. 
+line7=Megérint minket, mint a szél, 
+line8=ami a búzát fújja Isten mezején.\i 
+soundfile=
+fotofile=
+
+[51]
+kep=evk6.png 
+soundfile=
+fotofile=
