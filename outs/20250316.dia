@@ -1,0 +1,330 @@
+[main]
+diaszam=32
+utf8=1
+
+[1]
+kep=nagyb2.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Jövök a kereszthez / 1 
+lines=4
+line0=Jövök a kereszthez, jövök a kereszthez, 
+line1=Neked halált hozott, nekem életet. 
+line2=Jövök a kereszthez, jövök a kereszthez, 
+line3=Az élet forrása testedből ered. 
+soundfile=
+fotofile=
+
+[3]
+caption=Jövök a kereszthez / REFa 
+lines=4
+line0=Nincsen más hely, ahol megpihenhetek, 
+line1=Nincsen más mód, hogy letegyem bűnömet, 
+line2=Amit gondolattal, tettel, vagy szóval elkövettem. 
+line3=Teremts újra tiszta szívet bennem! 
+soundfile=
+fotofile=
+
+[4]
+caption=Jövök a kereszthez / 1 
+lines=4
+line0=Jövök a kereszthez, jövök a kereszthez, 
+line1=Neked halált hozott, nekem életet. 
+line2=Jövök a kereszthez, jövök a kereszthez, 
+line3=Az élet forrása testedből ered. 
+soundfile=
+fotofile=
+
+[5]
+caption=Jövök a kereszthez / REFb 
+lines=4
+line0=Nincsen más út, mely szabadságra vezet, 
+line1=Nincsen más vér, mely elmossa bűnömet, 
+line2=Jézus, hűséges Istenem, vonj Magadhoz engem! 
+line3=Teremts újra tiszta szívet bennem! 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram, irgalmazz (Bonifác) 
+lines=3
+line0=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+line1=Christe eleison. Christe eleison. Christe eleison. 
+line2=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+soundfile=
+fotofile=
+
+[7]
+caption=Béke Istene 
+lines=5
+line0= 
+line1=Béke Istene szállj rám, 
+line2=jöjj el, Mennyei Bárány! 
+line3=Szíved várja a szívem, 
+line4=Jézus, légy menedékem! 
+soundfile=
+fotofile=
+
+[8]
+caption=Uram, Tehozzád futok / 1 
+lines=7
+line0=Uram, Tehozzád futok, 
+line1=Élő vízre szomjazom, 
+line2=Közelséged ó mily jó énnekem. 
+line3= 
+line4=Kérlek, ne menj el tőlem, 
+line5=Légy mindig segítségem, 
+line6=Úgy kívánlak Téged, Istenem. 
+soundfile=
+fotofile=
+
+[9]
+caption=Uram, Tehozzád futok / REF 
+lines=8
+line0=Én pedig szüntelen remélek, 
+line1=Egyre jobban dícsérlek, 
+line2=Ajkam beszéli a Te igazságodat. 
+line3= 
+line4=Hadd legyen most a dalom 
+line5=Jó illat oltárodon, 
+line6=|: Nagyon szeretlek Téged, :| 
+line7=Nagyon szeretlek Téged, Jézusom! 
+soundfile=
+fotofile=
+
+[10]
+caption=Arrepiéntete / REF 
+lines=5
+line0=Arrepiéntete, arrepiéntete, 
+line1=y cree en el Evangelio. 
+line2= 
+line3=\ITérj meg, térj meg 
+line4=és higgy az evangéliumban.\i 
+soundfile=
+fotofile=
+
+[11]
+caption=Arrepiéntete / 1 
+lines=5
+line0=En este cuaresma, danos hoy, Señor, 
+line1=la oportunidad de arrepentirnos. 
+line2= 
+line3=\IEbben a nagyböjtben adj nekünk, Uram, 
+line4=lehetőséget a megtérésre.\i 
+soundfile=
+fotofile=
+
+[12]
+caption=Arrepiéntete / REF 
+lines=5
+line0=|: Arrepiéntete, arrepiéntete, 
+line1=y cree en el Evangelio. :| 
+line2= 
+line3=\I|: Térj meg, térj meg 
+line4=és higgy az evangéliumban. :|\i 
+soundfile=
+fotofile=
+
+[13]
+caption=Arrepiéntete / 2 
+lines=5
+line0=No quieres la muerte, para el pecador, 
+line1=tú le pides cambio de corazón. 
+line2= 
+line3=\INem akarsz halált a bűnösnek, 
+line4=szíved megújítását kéred.\i 
+soundfile=
+fotofile=
+
+[14]
+caption=Arrepiéntete / REF 
+lines=5
+line0=Arrepiéntete, arrepiéntete, 
+line1=y cree en el Evangelio. 
+line2= 
+line3=\ITérj meg, térj meg 
+line4=és higgy az evangéliumban.\i 
+soundfile=
+fotofile=
+
+[15]
+caption=Szent vagy (Bonifác) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus, Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+soundfile=
+fotofile=
+
+[16]
+caption=Isten báránya (Bonifác) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi, dona nobis pacem. 
+soundfile=
+fotofile=
+
+[17]
+caption=Tested, Jézus 
+lines=4
+line0= 
+line1=|: Tested, Jézus, értünk függött. :| 
+line2= 
+line3=|: Véred, Jézus, értünk ömlött. :| 
+soundfile=
+fotofile=
+
+[18]
+caption=Ó, fiam! / REF 
+lines=4
+line0=Ó, fiam, ó, fiam, 
+line1=Miért hagytál el? 
+line2=Ó, fiam, ó, fiam, 
+line3=Miért hagytál el? 
+soundfile=
+fotofile=
+
+[19]
+caption=Ó, fiam! / 1 
+lines=4
+line0=Remegve vártalak, 
+line1=Jászolban szültelek, 
+line2=Minden nap láttalak, 
+line3=Véremmel etettelek. 
+soundfile=
+fotofile=
+
+[20]
+caption=Ó, fiam! / REF 
+lines=4
+line0=Ó, fiam, ó, fiam, 
+line1=Miért hagytál el? 
+line2=Ó, fiam, ó, fiam, 
+line3=Miért hagytál el? 
+soundfile=
+fotofile=
+
+[21]
+caption=Ó, fiam! / 2 
+lines=4
+line0=Minden nap szent volt és minden nap szép, 
+line1=Mindig megéltem az Úr szeretét, 
+line2=Minden nap szent volt és minden nap más, 
+line3=Minden nap láttam a legnagyobb csodát! 
+soundfile=
+fotofile=
+
+[22]
+caption=Ó, fiam! / REF 
+lines=4
+line0=Ó, fiam, ó, fiam, 
+line1=Miért hagytál el? 
+line2=Ó, fiam, ó, fiam, 
+line3=Miért hagytál el? 
+soundfile=
+fotofile=
+
+[23]
+caption=Ó, fiam! / 1 
+lines=4
+line0=Remegve vártalak, 
+line1=Jászolban szültelek, 
+line2=Minden nap láttalak, 
+line3=Véremmel etettelek. 
+soundfile=
+fotofile=
+
+[24]
+caption=Ó, fiam! / REF 
+lines=4
+line0=Ó, fiam, ó, fiam, 
+line1=Miért hagytál el? 
+line2=Ó, fiam, ó, fiam, 
+line3=Miért hagytál el? 
+soundfile=
+fotofile=
+
+[25]
+caption=Köszönöm, Jézus / 1 
+lines=4
+line0=Köszönöm Jézus, köszönöm Jézus, 
+line1=Köszönöm Uram, hogy szeretsz engem. 
+line2=Köszönöm Jézus, köszönöm Jézus, 
+line3=Köszönöm Uram, hogy szeretsz engem. 
+soundfile=
+fotofile=
+
+[26]
+caption=Köszönöm, Jézus / 2 
+lines=4
+line0=A Golgotára ment és meghalt értem. 
+line1=Köszönöm Uram, hogy szeretsz engem. 
+line2=A Golgotára ment és meghalt értem. 
+line3=Köszönöm Uram, hogy szeretsz engem. 
+soundfile=
+fotofile=
+
+[27]
+caption=Arrepiéntete / REF 
+lines=5
+line0=Arrepiéntete, arrepiéntete, 
+line1=y cree en el Evangelio. 
+line2= 
+line3=\ITérj meg, térj meg 
+line4=és higgy az evangéliumban.\i 
+soundfile=
+fotofile=
+
+[28]
+caption=Arrepiéntete / 1 
+lines=5
+line0=En este cuaresma, danos hoy, Señor, 
+line1=la oportunidad de arrepentirnos. 
+line2= 
+line3=\IEbben a nagyböjtben adj nekünk, Uram, 
+line4=lehetőséget a megtérésre.\i 
+soundfile=
+fotofile=
+
+[29]
+caption=Arrepiéntete / REF 
+lines=5
+line0=|: Arrepiéntete, arrepiéntete, 
+line1=y cree en el Evangelio. :| 
+line2= 
+line3=\I|: Térj meg, térj meg 
+line4=és higgy az evangéliumban. :|\i 
+soundfile=
+fotofile=
+
+[30]
+caption=Arrepiéntete / 2 
+lines=5
+line0=No quieres la muerte, para el pecador, 
+line1=tú le pides cambio de corazón. 
+line2= 
+line3=\INem akarsz halált a bűnösnek, 
+line4=szíved megújítását kéred.\i 
+soundfile=
+fotofile=
+
+[31]
+caption=Arrepiéntete / REF 
+lines=5
+line0=Arrepiéntete, arrepiéntete, 
+line1=y cree en el Evangelio. 
+line2= 
+line3=\ITérj meg, térj meg 
+line4=és higgy az evangéliumban.\i 
+soundfile=
+fotofile=
+
+[32]
+kep=nagyb2.png 
+soundfile=
+fotofile=
