@@ -1,0 +1,17 @@
+caption=Seigneur je viens vers toi / 1
+|: Seigneur je viens vers Toi, déjà Tu me connais. :|
+Toi qui sondes les cœurs, Toi qui sondes les reins,
+Seigneur accueille-moi, prends ma vie dans tes mains.
+
+\I|: Uram, Hozzád jövök, Te már ismersz engem. :|
+Te, aki a szíveket kutatod, Te, aki az elméket kutatod,
+Uram, fogadj be engem, vedd kezedbe az életem.\i
+
+caption=Seigneur je viens vers toi / 2
+|: Seigneur Tu es ma joie, déjà Tu m’as guéri. :|
+Esprit de Vérité, Esprit d’Humilité,
+Pour toujours apprends-moi, le chemin de la vie.
+
+\I|: Uram, Te vagy az örömöm, Te már meggyógyítottál engem. :|
+Igazság Lelke, Alázat Lelke,
+Taníts örökké az élet útjára.\i

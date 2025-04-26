@@ -1,0 +1,20 @@
+caption=Áldott Istenünk / 1a
+Áldott Istenünk, a szívünket fogadd el,
+Felajánljuk munkánk a kenyérrel!
+Kérünk, fogadd el ezt a fehér kenyeret,
+Hisz ezáltal leszünk eggyé Veled!
+caption=Áldott Istenünk / 1b
+A verejtékes munka áldott gyümölcse
+És sok millió ember élete,
+De egyszerű és köztünk élő valóság,
+Így jössz közénk Te is, Jézusunk!
+caption=Áldott Istenünk / 2a
+Áldott Istenünk, a kehelybe bort öntünk,
+Felajánljuk Néked minden örömünk!
+Kérünk, fogadd el ezt a kehely fehér bort,
+Hisz a véred egykor miértünk folyt!
+caption=Áldott Istenünk / 2b
+Átnyújtjuk most Neked szívünk, mindenünk,
+Fogadd el hát egész életünk!
+Te nagyszerű és üdvözítő Valóság,
+Kérünk, jöjj el közénk, Jézusunk!

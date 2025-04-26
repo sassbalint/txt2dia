@@ -1,0 +1,268 @@
+[main]
+diaszam=25
+utf8=1
+
+[1]
+kep=húsv2.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Seigneur je viens vers toi / 1 
+lines=8
+line0=|: Seigneur je viens vers Toi, déjà Tu me connais. :| 
+line1=Toi qui sondes les cœurs, Toi qui sondes les reins, 
+line2=Seigneur accueille-moi, prends ma vie dans tes mains. 
+line3= 
+line4=\I|: Uram, Hozzád jövök, Te már ismersz engem. :| 
+line5=Te, aki a szíveket kutatod, Te, aki az elméket kutatod, 
+line6=Uram, fogadj be engem, vedd kezedbe az életem.\i 
+line7= 
+soundfile=
+fotofile=
+
+[3]
+caption=Seigneur je viens vers toi / 2 
+lines=7
+line0=|: Seigneur Tu es ma joie, déjà Tu m’as guéri. :| 
+line1=Esprit de Vérité, Esprit d’Humilité, 
+line2=Pour toujours apprends-moi, le chemin de la vie. 
+line3= 
+line4=\I|: Uram, Te vagy az örömöm, Te már meggyógyítottál engem. :| 
+line5=Igazság Lelke, Alázat Lelke, 
+line6=Taníts örökké az élet útjára.\i 
+soundfile=
+fotofile=
+
+[4]
+caption=Uram, irgalmazz (Bonifác) 
+lines=3
+line0=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+line1=Christe eleison. Christe eleison. Christe eleison. 
+line2=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+soundfile=
+fotofile=
+
+[5]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[6]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[9]
+caption=Szent, szent a neve 
+lines=7
+line0=Szent, szent a neve, én Őt dicsérem, 
+line1=Ő erősségem, Jézus. 
+line2=Az én Istenemért mindent veszni hagytam, 
+line3=csak hogy szolgálhassam Jézust. 
+line4= 
+line5=Boldogan megvallhatom, Ő a cél, 
+line6=meghaltam, de élek Jézus Krisztusért! 
+soundfile=
+fotofile=
+
+[10]
+caption=Alleluja Augustin 
+lines=2
+line0= 
+line1=Allelúja 
+soundfile=
+fotofile=
+
+[11]
+caption=Áldott Istenünk / 1a 
+lines=4
+line0=Áldott Istenünk, a szívünket fogadd el, 
+line1=Felajánljuk munkánk a kenyérrel! 
+line2=Kérünk, fogadd el ezt a fehér kenyeret, 
+line3=Hisz ezáltal leszünk eggyé Veled! 
+soundfile=
+fotofile=
+
+[12]
+caption=Áldott Istenünk / 1b 
+lines=4
+line0=A verejtékes munka áldott gyümölcse 
+line1=És sok millió ember élete, 
+line2=De egyszerű és köztünk élő valóság, 
+line3=Így jössz közénk Te is, Jézusunk! 
+soundfile=
+fotofile=
+
+[13]
+caption=Áldott Istenünk / 2a 
+lines=4
+line0=Áldott Istenünk, a kehelybe bort öntünk, 
+line1=Felajánljuk Néked minden örömünk! 
+line2=Kérünk, fogadd el ezt a kehely fehér bort, 
+line3=Hisz a véred egykor miértünk folyt! 
+soundfile=
+fotofile=
+
+[14]
+caption=Áldott Istenünk / 2b 
+lines=4
+line0=Átnyújtjuk most Neked szívünk, mindenünk, 
+line1=Fogadd el hát egész életünk! 
+line2=Te nagyszerű és üdvözítő Valóság, 
+line3=Kérünk, jöjj el közénk, Jézusunk! 
+soundfile=
+fotofile=
+
+[15]
+caption=Szent vagy (Bonifác) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus, Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+soundfile=
+fotofile=
+
+[16]
+caption=Isten báránya (Bonifác) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi, dona nobis pacem. 
+soundfile=
+fotofile=
+
+[17]
+caption=Több erőt 
+lines=5
+line0=|: Több erőt, több szeretetet, többet Tőled minden nap. :| 
+line1=És teljes szívemből imádom neved. 
+line2=Az elmém meghajol, hódoljon neked. 
+line3=Teljes lényem Tiéd, rendelkezz velem. 
+line4=Mert Te vagy az Úr! Te vagy az Úr! 
+soundfile=
+fotofile=
+
+[18]
+caption=Ízleld és lásd / 1 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=|: Boldog ember az, ki benne bízik! :| 
+soundfile=
+fotofile=
+
+[19]
+caption=Ízleld és lásd / 2 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=Ő jó, Ő jó, Ő jó! 
+soundfile=
+fotofile=
+
+[20]
+caption=Zarándokének / 1 
+lines=6
+line0=Valami véget ér, kezdődik más talán. 
+line1=Látod, megyünk az élet sivatagán. 
+line2=Gyere, mert lépni muszáj! 
+line3= 
+line4=Szinte hallom, újra hallom, szól a régóta vándorlók dala. 
+line5=Minden éjjel, minden délben hallom, hogy zeng a dallama. 
+soundfile=
+fotofile=
+
+[21]
+caption=Zarándokének / 2 
+lines=6
+line0=Sokan megálltak már. Elég volt a beszéd. 
+line1=Egész életünk itt a keresztre néz, 
+line2=értjük már üzenetét. 
+line3= 
+line4=Szinte hallom, újra hallom, szól a régóta vándorlók dala. 
+line5=Minden éjjel, minden délben hallom, hogy zeng a dallama. 
+soundfile=
+fotofile=
+
+[22]
+caption=Zarándokének / 3 
+lines=6
+line0=Néha sötétség vár, arcunkba fúj a szél. 
+line1=De bátran megyünk, lábunk egyszerre lép 
+line2=Istenünk eszközeként. 
+line3= 
+line4=Szinte hallom, újra hallom, szól a régóta vándorlók dala. 
+line5=Minden éjjel, minden délben hallom, hogy zeng a dallama. 
+soundfile=
+fotofile=
+
+[23]
+caption=Seigneur je viens vers toi / 1 
+lines=8
+line0=|: Seigneur je viens vers Toi, déjà Tu me connais. :| 
+line1=Toi qui sondes les cœurs, Toi qui sondes les reins, 
+line2=Seigneur accueille-moi, prends ma vie dans tes mains. 
+line3= 
+line4=\I|: Uram, Hozzád jövök, Te már ismersz engem. :| 
+line5=Te, aki a szíveket kutatod, Te, aki az elméket kutatod, 
+line6=Uram, fogadj be engem, vedd kezedbe az életem.\i 
+line7= 
+soundfile=
+fotofile=
+
+[24]
+caption=Seigneur je viens vers toi / 2 
+lines=7
+line0=|: Seigneur Tu es ma joie, déjà Tu m’as guéri. :| 
+line1=Esprit de Vérité, Esprit d’Humilité, 
+line2=Pour toujours apprends-moi, le chemin de la vie. 
+line3= 
+line4=\I|: Uram, Te vagy az örömöm, Te már meggyógyítottál engem. :| 
+line5=Igazság Lelke, Alázat Lelke, 
+line6=Taníts örökké az élet útjára.\i 
+soundfile=
+fotofile=
+
+[25]
+kep=húsv2.png 
+soundfile=
+fotofile=
