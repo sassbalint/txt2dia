@@ -1,0 +1,429 @@
+[main]
+diaszam=40
+utf8=1
+
+[1]
+kep=husv5.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Jöjj, itt az idő / 1 
+lines=5
+line0= 
+line1=Jöjj, itt az idő, hogy dicsérd! 
+line2=Jöjj, itt az idő, hogy átadd szíved! 
+line3=Jöjj úgy, ahogy vagy, és dicsérd! 
+line4=Jöjj úgy, ahogy vagy az Úr elé! Hát jöjj! 
+soundfile=
+fotofile=
+
+[3]
+caption=Jöjj, itt az idő / REF 
+lines=5
+line0= 
+line1=Egyszer minden nyelv megvallja, hogy Ő az Úr, 
+line2=és mindenki térdet hajt. 
+line3=A legnagyobb kincs mégis azokra vár, 
+line4=Kik most Őt választják! 
+soundfile=
+fotofile=
+
+[4]
+caption=Jöjj, itt az idő / 2 
+lines=5
+line0= 
+line1=Jöjj, itt az idő, hogy ébredj! 
+line2=Jöjj, itt az idő, hogy áldjuk Őt! 
+line3=Jöjj, szívedet add az Úrnak! 
+line4=Jöjj, imádd az Istent, úgy, ahogy vagy! Hát jöjj! 
+soundfile=
+fotofile=
+
+[5]
+caption=Jöjj, itt az idő / REF 
+lines=5
+line0= 
+line1=Egyszer minden nyelv megvallja, hogy Ő az Úr, 
+line2=és mindenki térdet hajt. 
+line3=A legnagyobb kincs mégis azokra vár, 
+line4=Kik most Őt választják! 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram, irgalmazz (Sillye) 
+lines=6
+line0=Uram, irgalmazz! 
+line1=Uram, irgalmazz! 
+line2=Krisztus, kegyelmezz! 
+line3=Krisztus, kegyelmezz! 
+line4=Uram, irgalmazz! 
+line5=Uram, irgalmazz! 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[9]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[10]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[11]
+caption=Énekelj az Úrnak / 1 
+lines=4
+line0=|: Énekelj az Úrnak új éneket! Énekelj az Úrnak egész föld! :| 
+line1= 
+line2=Énekelj az Úrnak, áldjad nagy Nevét! 
+line3=Hirdesd napról-napra az Ő dicsőségét! 
+soundfile=
+fotofile=
+
+[12]
+caption=Énekelj az Úrnak / 2 
+lines=4
+line0=|: Énekelj az Úrnak új éneket! Énekelj az Úrnak egész föld! :| 
+line1= 
+line2=Ékesség és fenség van Őelőtte, 
+line3=tisztesség és méltóság az Ő szent helyén! 
+soundfile=
+fotofile=
+
+[13]
+caption=Zengd velünk / 1 
+lines=5
+line0=Alleluja, alleluja, alleluja! 
+line1= 
+line2=Zengd velünk: örökké jó az Úr, énekeld szeretetét! 
+line3=Izráel háza is mondja hát: zengje hát nagy örömét! 
+line4= 
+soundfile=
+fotofile=
+
+[14]
+caption=Zengd velünk / 2 
+lines=6
+line0=Alleluja, alleluja, alleluja! 
+line1= 
+line2=Az Úr velünk, ki lehet ellenünk, rettegést nem ismerünk, 
+line3=Jobb az Úr ereje énnekem, jobb is, mint az emberé! 
+line4= 
+line5=Alleluja, alleluja, alleluja! 
+soundfile=
+fotofile=
+
+[15]
+caption=Apokrif ima (Oldani) / 1 
+lines=4
+line0=Oldani, Uram, s oldódni vágyom, 
+line1=Üdvözíteni s üdvözülni vágyom. 
+line2=Alkotni, Uram, s alakulni vágyom, 
+line3=Alkotni, Uram, s alakulni vágyom. 
+soundfile=
+fotofile=
+
+[16]
+caption=Apokrif ima (Oldani) / 2 
+lines=4
+line0=Ékesíteni és ékeskedni vágyom, 
+line1=Dalolni, Uram, és dallá lenni vágyom. 
+line2=Követeddé lenni s Érted tenni vágyom, 
+line3=Követeddé lenni s Érted tenni vágyom. 
+soundfile=
+fotofile=
+
+[17]
+caption=Apokrif ima (Oldani) / 3 
+lines=4
+line0=Lámpád vagyok, ha látsz engem, 
+line1=Ajtód vagyok, ha zörgetsz bennem. 
+line2=Ki látod, mit teszek, hallgass el engem, 
+line3=Ki látod, mit teszek, hallgass el engem! 
+soundfile=
+fotofile=
+
+[18]
+caption=Szent vagy (Sillye) 
+lines=3
+line0=Szent vagy, szent vagy, szent vagy Mindenség Ura, Istene! 
+line1=Dicsőséged betölti a Mennyet és a Földet. Hozsanna a magasságban! 
+line2=|: Áldott, aki jön az Úr nevében. Hozsanna a magasságban! :| 
+soundfile=
+fotofile=
+
+[19]
+caption=Isten báránya (Sillye) 
+lines=3
+line0=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line1=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line2=Isten Báránya, te elveszed a világ bűneit: adj nekünk békét. 
+soundfile=
+fotofile=
+
+[20]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[21]
+caption=Anima Christi / 1 
+lines=5
+line0= 
+line1=Passio Christi conforta me. 
+line2=O bone Jesu, exaudi me. 
+line3=Intra vulnera tua 
+line4=absconde, absconde me. 
+soundfile=
+fotofile=
+
+[22]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[23]
+caption=Anima Christi / 2 
+lines=5
+line0= 
+line1=Ne permitas a te me separari. 
+line2=Ab hoste maligno defende me. 
+line3=In hora mortis meae 
+line4=voca me, voca me. 
+soundfile=
+fotofile=
+
+[24]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[25]
+caption=Anima Christi / 3 
+lines=5
+line0= 
+line1=Et iube me venire ad te, 
+line2=ut cum sanctis tuis laudem te 
+line3=per infinita saecula 
+line4=saeculorum. Amen. 
+soundfile=
+fotofile=
+
+[26]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[27]
+caption=Több erőt 
+lines=5
+line0=|: Több erőt, több szeretetet, többet Tőled minden nap. :| 
+line1=És teljes szívemből imádom neved. 
+line2=Az elmém meghajol, hódoljon neked. 
+line3=Teljes lényem Tiéd, rendelkezz velem. 
+line4=Mert Te vagy az Úr! Te vagy az Úr! 
+soundfile=
+fotofile=
+
+[28]
+caption=Mária, Mária / REF 
+lines=8
+line0=Mária, Mária, szép virágszál, 
+line1=Mária, szikrázó Nap! 
+line2=Szeplőtlen fogantatott, ártatlan lány, 
+line3=Könyörögj érettünk, Anyánk! 
+line4=Mária, Mária, szép virágszál, 
+line5=Mária, szikrázó Nap! 
+line6=Védelmezz, magyarok Nagyasszonya! 
+line7=Imádkozz érettünk, Anyánk! 
+soundfile=
+fotofile=
+
+[29]
+caption=Mária, Mária / 1 
+lines=4
+line0=Nézd, önzésünk mély, sötét börtönbe zár, 
+line1=A hűtlenség kígyója szívünkre vár. 
+line2=Erőtlen gyermeked Hozzád kiált, 
+line3=Ne hagyj el, jöjj, segíts már! 
+soundfile=
+fotofile=
+
+[30]
+caption=Mária, Mária / REF 
+lines=8
+line0=Mária, Mária, szép virágszál, 
+line1=Mária, szikrázó Nap! 
+line2=Szeplőtlen fogantatott, ártatlan lány, 
+line3=Könyörögj érettünk, Anyánk! 
+line4=Mária, Mária, szép virágszál, 
+line5=Mária, szikrázó Nap! 
+line6=Védelmezz, magyarok Nagyasszonya! 
+line7=Imádkozz érettünk, Anyánk! 
+soundfile=
+fotofile=
+
+[31]
+caption=Mária, Mária / 2 
+lines=4
+line0=A szeretet hűsége szívedben ég, 
+line1=Mint hajnali verőfény, oly tiszta, szép. 
+line2=Lánglelked tűzjelét ragyogtasd ránk, 
+line3=Utunkon előttünk járj! 
+soundfile=
+fotofile=
+
+[32]
+caption=Mária, Mária / REF 
+lines=8
+line0=Mária, Mária, szép virágszál, 
+line1=Mária, szikrázó Nap! 
+line2=Szeplőtlen fogantatott, ártatlan lány, 
+line3=Könyörögj érettünk, Anyánk! 
+line4=Mária, Mária, szép virágszál, 
+line5=Mária, szikrázó Nap! 
+line6=Védelmezz, magyarok Nagyasszonya! 
+line7=Imádkozz érettünk, Anyánk! 
+soundfile=
+fotofile=
+
+[33]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[34]
+caption=Anima Christi / 1 
+lines=5
+line0= 
+line1=Passio Christi conforta me. 
+line2=O bone Jesu, exaudi me. 
+line3=Intra vulnera tua 
+line4=absconde, absconde me. 
+soundfile=
+fotofile=
+
+[35]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[36]
+caption=Anima Christi / 2 
+lines=5
+line0= 
+line1=Ne permitas a te me separari. 
+line2=Ab hoste maligno defende me. 
+line3=In hora mortis meae 
+line4=voca me, voca me. 
+soundfile=
+fotofile=
+
+[37]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[38]
+caption=Anima Christi / 3 
+lines=5
+line0= 
+line1=Et iube me venire ad te, 
+line2=ut cum sanctis tuis laudem te 
+line3=per infinita saecula 
+line4=saeculorum. Amen. 
+soundfile=
+fotofile=
+
+[39]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[40]
+kep=husv5.png 
+soundfile=
+fotofile=
