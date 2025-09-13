@@ -29,7 +29,7 @@ caption=Meghívtál, hogy vízre lépjek / közép
 |: Lélek add, hogy Benned teljesen megbízzak,
 A vízen bátran Veled járjak, bárhová hívsz, menjek.
 Vigyél tovább, mint a lábam tudna menni.
-Taníts teljes hittel járni, jelenlétedben élni. :|
+Taníts teljes hittel járni, jelenlétedben élni. :| 3x
 caption=Meghívtál, hogy vízre lépjek / REF
 
 Nagy Neved hívom én,

@@ -1,0 +1,364 @@
+[main]
+diaszam=35
+utf8=1
+
+[1]
+kep=venisancte.jpg 
+soundfile=
+fotofile=
+
+[2]
+caption=Jöjj, Szentlélek, jöjj közénk / REF 
+lines=3
+line0= 
+line1=Jöjj Szentlélek, jöjj közénk, jöjj el fényességünk, 
+line2=Jöjj tüzes Lélek, lobbantsd lángra szívünk! 
+soundfile=
+fotofile=
+
+[3]
+caption=Jöjj, Szentlélek, jöjj közénk / 1 
+lines=3
+line0= 
+line1=Jöjj Atyánk Lelke, hozz fényt nekünk, 
+line2=Küldd el a mennyből Lelked nagy erejét. 
+soundfile=
+fotofile=
+
+[4]
+caption=Jöjj, Szentlélek, jöjj közénk / REF 
+lines=3
+line0= 
+line1=Jöjj Szentlélek, jöjj közénk, jöjj el fényességünk, 
+line2=Jöjj tüzes Lélek, lobbantsd lángra szívünk! 
+soundfile=
+fotofile=
+
+[5]
+caption=Jöjj, Szentlélek, jöjj közénk / 2 
+lines=3
+line0= 
+line1=Jöjj életünkbe, hozz gyógyulást, 
+line2=Szívünk és a testünk égi kenetre vár. 
+soundfile=
+fotofile=
+
+[6]
+caption=Jöjj, Szentlélek, jöjj közénk / REF 
+lines=3
+line0= 
+line1=Jöjj Szentlélek, jöjj közénk, jöjj el fényességünk, 
+line2=Jöjj tüzes Lélek, lobbantsd lángra szívünk! 
+soundfile=
+fotofile=
+
+[7]
+caption=Uram, irgalmazz (Sillye IV.) 
+lines=6
+line0=Uram, irgalmazz! 
+line1=Uram, irgalmazz! 
+line2=Krisztus, kegyelmezz! 
+line3=Krisztus, kegyelmezz! 
+line4=Uram, irgalmazz! 
+line5=Uram, irgalmazz! 
+soundfile=
+fotofile=
+
+[8]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=4
+line0=Dicsőség! Dicsőség a magasságban Istennek! 
+line1=Békesség a Földön minden jószándékú embernek! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+soundfile=
+fotofile=
+
+[9]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=5
+line0=Dicsőség! Istenünkhöz, jó Atyánkhoz szálljon fel! 
+line1=Békesség! Béke, Öröm legyen minden emberrel! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+line4=Dicsőség! Békesség! 
+soundfile=
+fotofile=
+
+[10]
+caption=Uram, Tehozzád futok / 1 
+lines=7
+line0=Uram, Tehozzád futok, 
+line1=Élő vízre szomjazom, 
+line2=Közelséged ó mily jó énnekem. 
+line3= 
+line4=Kérlek, ne menj el tőlem, 
+line5=Légy mindig segítségem, 
+line6=Úgy kívánlak Téged, Istenem. 
+soundfile=
+fotofile=
+
+[11]
+caption=Uram, Tehozzád futok / REF 
+lines=8
+line0=Én pedig szüntelen remélek, 
+line1=Egyre jobban dícsérlek, 
+line2=Ajkam beszéli a Te igazságodat. 
+line3= 
+line4=Hadd legyen most a dalom 
+line5=Jó illat oltárodon, 
+line6=|: Nagyon szeretlek Téged, :| 
+line7=Nagyon szeretlek Téged, Jézusom! 
+soundfile=
+fotofile=
+
+[12]
+caption=Gyönyörű vagy / 1 
+lines=5
+line0= 
+line1=Gyönyörű vagy én Uram, 
+line2=szívem mélyéből áldalak, 
+line3=szívem mélyéből áldalak. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[13]
+caption=Gyönyörű vagy / 2 
+lines=5
+line0= 
+line1=Lelked betölti életem, 
+line2=Benned ujjong, dalol szívem, 
+line3=Benned ujjong, dalol szívem. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[14]
+caption=Gyönyörű vagy / 3 
+lines=5
+line0= 
+line1=Tegyél szívedre pecsétül, 
+line2=örök életet adj végül, 
+line3=örök életet adj végül! 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[15]
+caption=A föld és az ég (Tied vagyunk) / A 
+lines=4
+line0=A föld és az ég asztalunknál összeér. 
+line1=Értünk lett élet ez a bor és a kenyér. 
+line2=Őáltala, Ővele, Őbenne Tied vagyunk. 
+line3=Tied vagyunk, Tied vagyunk, Tied vagyunk. 
+soundfile=
+fotofile=
+
+[16]
+caption=A föld és az ég (Tied vagyunk) / B 
+lines=2
+line0=|: Ments meg minket! Táplálj minket :| 3x 
+line1=Ments meg minket! 
+soundfile=
+fotofile=
+
+[17]
+caption=A föld és az ég (Tied vagyunk) / B 
+lines=5
+line0=|: Ments meg minket! Táplálj minket :| 3x 
+line1=Ments meg minket! 
+line2= 
+line3=|: Jézus vére és teste az élet itala és étele :| 
+line4=Táplálj minket! Ments meg minket! 
+soundfile=
+fotofile=
+
+[18]
+caption=A föld és az ég (Tied vagyunk) / A 
+lines=4
+line0=A föld és az ég asztalunknál összeér. 
+line1=Értünk lett élet ez a bor és a kenyér. 
+line2=Őáltala, Ővele, Őbenne Tied vagyunk. 
+line3=Tied vagyunk, Tied vagyunk, Tied vagyunk. 
+soundfile=
+fotofile=
+
+[19]
+caption=Szent vagy (Sillye IV.) 
+lines=3
+line0=Szent vagy, szent vagy, szent vagy Mindenség Ura, Istene! 
+line1=Dicsőséged betölti a Mennyet és a Földet. Hozsanna a magasságban! 
+line2=|: Áldott, aki jön az Úr nevében. Hozsanna a magasságban! :| 
+soundfile=
+fotofile=
+
+[20]
+caption=Isten báránya (Sillye IV.) 
+lines=3
+line0=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line1=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line2=Isten Báránya, te elveszed a világ bűneit: adj nekünk békét. 
+soundfile=
+fotofile=
+
+[21]
+caption=Meghívtál, hogy vízre lépjek / 1 
+lines=5
+line0= 
+line1=Meghívtál, hogy vízre lépjek, 
+line2=hol Nélküled elsüllyedek. 
+line3=Ebben megtalállak Téged, 
+line4=a mélységben megtart hitem. 
+soundfile=
+fotofile=
+
+[22]
+caption=Meghívtál, hogy vízre lépjek / REF 
+lines=6
+line0= 
+line1=Nagy Neved hívom én, 
+line2=és felnézek a vizek fölé. 
+line3=Ott látlak én, 
+line4=a lelkem Benned megpihen. 
+line5=Enyém vagy és én Tied. 
+soundfile=
+fotofile=
+
+[23]
+caption=Meghívtál, hogy vízre lépjek / 2 
+lines=5
+line0= 
+line1=A mélységnél nagyobb kegyelmed, 
+line2=mely elvezet és tart engem. 
+line3=Ha elbuknék és nagyon félnék, 
+line4=Te nem hagysz el, nem inogsz meg. 
+soundfile=
+fotofile=
+
+[24]
+caption=Meghívtál, hogy vízre lépjek / REF 
+lines=6
+line0= 
+line1=Nagy Neved hívom én, 
+line2=és felnézek a vizek fölé. 
+line3=Ott látlak én, 
+line4=a lelkem Benned megpihen. 
+line5=Enyém vagy és én Tied. 
+soundfile=
+fotofile=
+
+[25]
+caption=Meghívtál, hogy vízre lépjek / közép 
+lines=5
+line0= 
+line1=|: Lélek add, hogy Benned teljesen megbízzak, 
+line2=A vízen bátran Veled járjak, bárhová hívsz, menjek. 
+line3=Vigyél tovább, mint a lábam tudna menni. 
+line4=Taníts teljes hittel járni, jelenlétedben élni. :| 3x 
+soundfile=
+fotofile=
+
+[26]
+caption=Meghívtál, hogy vízre lépjek / REF 
+lines=5
+line0= 
+line1=Nagy Neved hívom én, 
+line2=és felnézek a vizek fölé. 
+line3=A lelkem Benned megpihen. 
+line4=Enyém vagy és én Tiéd. 
+soundfile=
+fotofile=
+
+[27]
+caption=Mert te, Uram 
+lines=5
+line0=|: Mert Te, Uram, fenséges vagy a földön, 
+line1=és felmagasztaltattál minden isten fölött. :| 
+line2= 
+line3=|: Imádunk Téged, imádunk Téged, 
+line4=Imádunk Téged, ó Urunk! :| 
+soundfile=
+fotofile=
+
+[28]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[29]
+caption=Szentlélek jöjj, lobogó láng / 1 
+lines=5
+line0= 
+line1=Jöjj el élő vízforrás, 
+line2=Jöjj, a szívünk Téged vár, 
+line3=Jöjj, ki fényt adsz lelkünknek, 
+line4=Jöjj, úgy vágyunk Rád. 
+soundfile=
+fotofile=
+
+[30]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[31]
+caption=Szentlélek jöjj, lobogó láng / 2 
+lines=5
+line0= 
+line1=Jöjj igazság forrása, 
+line2=Jöjj, imádunk mindnyájan, 
+line3=Jöjj, reményünk éleszd fel, 
+line4=Jöjj kegyelmeddel. 
+soundfile=
+fotofile=
+
+[32]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[33]
+caption=Szentlélek jöjj, lobogó láng / 3 
+lines=5
+line0= 
+line1=Jöjj, a néped gyűjtsd egybe, 
+line2=Jöjj, az alvót ébreszd fel, 
+line3=Jöjj, a bűntől tisztíts meg, 
+line4=Bátoríts minket. 
+soundfile=
+fotofile=
+
+[34]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[35]
+kep=venisancte.jpg 
+soundfile=
+fotofile=
