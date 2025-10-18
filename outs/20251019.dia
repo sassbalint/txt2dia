@@ -1,0 +1,278 @@
+[main]
+diaszam=27
+utf8=1
+
+[1]
+kep=szentev.jpg 
+soundfile=
+fotofile=
+
+[2]
+caption=Zarándokének / 1 
+lines=6
+line0=Valami véget ér, kezdődik más talán. 
+line1=Látod, megyünk az élet sivatagán. 
+line2=Gyere, mert lépni muszáj! 
+line3= 
+line4=Szinte hallom, újra hallom, szól a régóta vándorlók dala. 
+line5=Minden éjjel, minden délben hallom, hogy zeng a dallama. 
+soundfile=
+fotofile=
+
+[3]
+caption=Zarándokének / 2 
+lines=6
+line0=Sokan megálltak már. Elég volt a beszéd. 
+line1=Egész életünk itt a keresztre néz, 
+line2=értjük már üzenetét. 
+line3= 
+line4=Szinte hallom, újra hallom, szól a régóta vándorlók dala. 
+line5=Minden éjjel, minden délben hallom, hogy zeng a dallama. 
+soundfile=
+fotofile=
+
+[4]
+caption=Zarándokének / 3 
+lines=6
+line0=Néha sötétség vár, arcunkba fúj a szél. 
+line1=De bátran megyünk, lábunk egyszerre lép 
+line2=Istenünk eszközeként. 
+line3= 
+line4=Szinte hallom, újra hallom, szól a régóta vándorlók dala. 
+line5=Minden éjjel, minden délben hallom, hogy zeng a dallama. 
+soundfile=
+fotofile=
+
+[5]
+caption=Uram, irgalmazz (Augustin) 
+lines=4
+line0= 
+line1=Kyrie, Kyrie eleison. 
+line2=Christe, Christe eleison. 
+line3=Kyrie, Kyrie eleison. 
+soundfile=
+fotofile=
+
+[6]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[9]
+caption=Tied a dicsőség / 2 
+lines=5
+line0= 
+line1=|: Ó, hatalmas, kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[10]
+caption=Benned bízom / REF 
+lines=5
+line0= 
+line1=Benned bízom, Jézus, szép Reményem, 
+line2=Téged áldjon, dicsérjen az ének! 
+line3=Örök fényem, Igazság és Élet, 
+line4=az úton mindig Te vezess! 
+soundfile=
+fotofile=
+
+[11]
+caption=Benned bízom / 1 
+lines=5
+line0= 
+line1=Minden ember, minden nép és nemzet 
+line2=Igéd által megtalálja fényed. 
+line3=Ifjak, lányok, akik tévelyegnek, 
+line4=áldott Jézus, békét lelnek benned. 
+soundfile=
+fotofile=
+
+[12]
+caption=Benned bízom / REF 
+lines=5
+line0= 
+line1=Benned bízom, Jézus, szép Reményem, 
+line2=Téged áldjon, dicsérjen az ének! 
+line3=Örök fényem, Igazság és Élet, 
+line4=az úton mindig Te vezess! 
+soundfile=
+fotofile=
+
+[13]
+caption=Benned bízom / 2 
+lines=5
+line0= 
+line1=Ahogy Isten szeretettel néz ránk, 
+line2=új nap virrad reménysugarával. 
+line3=Föld és ég is megújul ma benne, 
+line4=így ad nékünk új életet Lelke. 
+soundfile=
+fotofile=
+
+[14]
+caption=Benned bízom / REF 
+lines=5
+line0= 
+line1=Benned bízom, Jézus, szép Reményem, 
+line2=Téged áldjon, dicsérjen az ének! 
+line3=Örök fényem, Igazság és Élet, 
+line4=az úton mindig Te vezess! 
+soundfile=
+fotofile=
+
+[15]
+caption=Benned bízom / 3 
+lines=5
+line0= 
+line1=Tekints fel és indulj el az úton! 
+line2=Isten megtart, lépteidet óvja. 
+line3=Nézd, ki értünk emberré lett egykor! 
+line4=Vele járva örök élet vár ránk. 
+soundfile=
+fotofile=
+
+[16]
+caption=Benned bízom / REF 
+lines=5
+line0= 
+line1=Benned bízom, Jézus, szép Reményem, 
+line2=Téged áldjon, dicsérjen az ének! 
+line3=Örök fényem, Igazság és Élet, 
+line4=az úton mindig Te vezess! 
+soundfile=
+fotofile=
+
+[17]
+caption=Alleluja (Augustin) 
+lines=2
+line0= 
+line1=Allelúja 
+soundfile=
+fotofile=
+
+[18]
+caption=Annak, ki a trónon ül 
+lines=5
+line0= 
+line1=Annak, ki a trónon ül 
+line2=És a Báránynak 
+line3=Legyen áldás, dicsőség, 
+line4=Tisztelet és hatalom örökké! 
+soundfile=
+fotofile=
+
+[19]
+caption=Szent vagy (Augustin) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus, Dominus Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna! Hosanna! Hosanna in excelsis Deo! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna! Hosanna! Hosanna in excelsis Deo! :| 
+soundfile=
+fotofile=
+
+[20]
+caption=Isten báránya (Augustin) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi, dona nobis pacem. 
+soundfile=
+fotofile=
+
+[21]
+caption=Te vagy az út 
+lines=8
+line0=Te vagy az út, az igazság, Te vagy az élet! 
+line1=Hozzád megyek, áldom neved, Általad élek! 
+line2= 
+line3=Megszabadítottál, kenyeret s bort adtál, 
+line4=Tested és véred táplál, Hűséged éltet! Alleluja 
+line5= 
+line6=Megszabadítottál, kenyeret s bort adtál, 
+line7=Tested és véred táplál, Hűséged éltet! 
+soundfile=
+fotofile=
+
+[22]
+caption=Több erőt 
+lines=5
+line0=|: Több erőt, több szeretetet, többet Tőled minden nap. :| 
+line1=És teljes szívemből imádom neved. 
+line2=Az elmém meghajol, hódoljon neked. 
+line3=Teljes lényem Tiéd, rendelkezz velem. 
+line4=Mert Te vagy az Úr! Te vagy az Úr! 
+soundfile=
+fotofile=
+
+[23]
+caption=Indulj és menj / 1 
+lines=3
+line0= 
+line1=Indulj és menj, hirdesd szavam, népemhez küldelek én! 
+line2=Tövis és gaz, vér és panasz, meddig hallgassam még én? 
+soundfile=
+fotofile=
+
+[24]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=
+
+[25]
+caption=Indulj és menj / 2 
+lines=3
+line0= 
+line1=Tüzessé teszem ajkaidat, gyémánttá homlokodat, 
+line2=Népemnek őrévé rendellek én, lelkemet adom melléd! 
+soundfile=
+fotofile=
+
+[26]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=
+
+[27]
+kep=szentev.jpg 
+soundfile=
+fotofile=
