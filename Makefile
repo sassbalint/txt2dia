@@ -21,6 +21,9 @@ process:
 20250914:
 	make process I="$T/_evk24.txt $T/jojj_szentlelek_jojj_kozenk.txt $T/uram_irgalmazz_sillye.txt $T/dicsoseg_sillye_iii.txt $T/uram_tehozzad_futok.txt $T/gyonyoru_vagy.txt $T/a_fold_es_az_eg.txt $T/szent_vagy_sillye.txt $T/isten_baranya_sillye.txt $T/meghivtal.txt $T/mert_te_uram.txt $T/szentlelek_jojj.txt $T/_evk24.txt" O=outs/20250914.dia
 
+20250615:
+	make process I="$T/_sz3sag.txt $T/szentlelek_jojj.txt $T/uram_irgalmazz_sillye.txt $T/tied_a_dicsoseg.txt $T/uram_tehozzad_futok.txt $T/add_a_kezed_hogy.txt $T/fold_es_az_eg.txt $T/szent_vagy_sillye.txt $T/isten_baranya_sillye.txt $T/szono_hi_zen_szekai_ga.txt $T/mert_te_uram.txt $T/indulj_es_menj.txt $T/szono_hi_zen_szekai_ga.txt $T/_sz3sag.txt" O=outs/20250615.dia
+
 20250518:
 	make process I="$T/_husv5.txt $T/jojj_itt_az_ido.txt $T/uram_irgalmazz_sillye.txt $T/tied_a_dicsoseg.txt $T/enekelj_az_urnak.txt $T/zengd_velunk.txt $T/apokrif_ima.txt $T/szent_vagy_sillye.txt $T/isten_baranya_sillye.txt $T/anima_christi.txt $T/tobb_erot.txt $T/maria_maria.txt $T/anima_christi.txt $T/_husv5.txt" O=outs/20250518.dia
 

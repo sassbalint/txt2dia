@@ -1,0 +1,70 @@
+caption=szono hi zen szekai ga / 1
+我が神主よ 見させたまえ 偉大なるその計画
+va ga kami su jo miszasze tamae idai naru szono keikaku
+天が開き 光が満ち シオンの上にとどまる
+te-n ga hiraki hikari ga micsi Sio-n no ue ni todomaru
+
+\IUram, Istenem, hadd lássam nagyszerű tervedet.
+Megnyílik az ég, fény járja át a levegőt, és megnyugszik Sionon.\i
+caption=szono hi zen szekai ga / 2
+救いの御業 全地を覆い 喜びの歌響かせ
+szukui no mivaza ze-ncsi vo ooi jorokobi no uta hibikasze
+その正義は 平和を呼ぶ 主の御霊が流れる
+szono szeigi va heiva o jobu su nomitama ga nagareru
+
+\IA megváltás műve betölti az egész földet, és felzeng az öröm éneke.
+Igazsága békét hív, és kiárad az Úr Lelke.\i
+caption=szono hi zen szekai ga / REF
+その日全世界が 主の御名 高く掲げる
+szono hi zen szekai ga su no mina takaku kakageru
+叫べ 王の王イエスに ハレルヤ 栄光 永遠にあれ
+szakebe o no o Jeszu ni hareruja eiko tova ni are
+
+\IAzon a napon majd az egész világ magasztalja az Úr nevét,
+Kiáltsd Jézusnak, a királyok Királyának: alleluja, dicsőség mindörökkön-örökké!\i
+caption=szono hi zen szekai ga / 1
+我が神主よ 見させたまえ 偉大なるその計画
+va ga kami su jo miszasze tamae idai naru szono keikaku
+天が開き 光が満ち シオンの上にとどまる
+te-n ga hiraki hikari ga micsi Sio-n no ue ni todomaru
+
+\IUram, Istenem, hadd lássam nagyszerű tervedet.
+Megnyílik az ég, fény járja át a levegőt, és megnyugszik Sionon.\i
+caption=szono hi zen szekai ga / 2
+救いの御業 全地を覆い 喜びの歌響かせ
+szukui no mivaza ze-ncsi vo ooi jorokobi no uta hibikasze
+その正義は 平和を呼ぶ 主の御霊が流れる
+szono szeigi va heiva o jobu su nomitama ga nagareru
+
+\IA megváltás műve betölti az egész földet, és felzeng az öröm éneke.
+Igazsága békét hív, és kiárad az Úr Lelke.\i
+caption=szono hi zen szekai ga / REF
+その日全世界が 主の御名 高く掲げる
+szono hi zen szekai ga su no mina takaku kakageru
+叫べ 王の王イエスに ハレルヤ 栄光 永遠にあれ
+szakebe o no o Jeszu ni hareruja eiko tova ni are
+
+\IAzon a napon majd az egész világ magasztalja az Úr nevét,
+Kiáltsd Jézusnak, a királyok Királyának: alleluja, dicsőség mindörökkön-örökké!\i
+caption=szono hi zen szekai ga / HID
+王の王なる主イエスに
+o no o naru su Jeszu ni
+全能なる主イエスに
+zenno o naru su Jeszu ni
+勝利者なる小羊に
+sorisa naru kohicudzsi ni
+栄光永遠にあれ
+eiko tova ni are
+
+\IAz Úr Jézusnak, a királyok Királyának!
+Az Úr Jézusnak, a Mindenhatónak!
+A győztes Báránynak!
+Dicsőség mindörökkön-örökké!\i
+caption=szono hi zen szekai ga / REF
+その日全世界が 主の御名 高く掲げる
+szono hi zen szekai ga su no mina takaku kakageru
+叫べ 王の王イエスに ハレルヤ 栄光 永遠にあれ
+szakebe o no o Jeszu ni hareruja eiko tova ni are
+
+\IAzon a napon majd az egész világ magasztalja az Úr nevét,
+Kiáltsd Jézusnak, a királyok Királyának: alleluja, dicsőség mindörökkön-örökké!\i
