@@ -1,0 +1,346 @@
+[main]
+diaszam=32
+utf8=1
+
+[1]
+kep=szentev.jpg 
+soundfile=
+fotofile=
+
+[2]
+caption=Szent Márton hó és szél nyomán / 1 
+lines=5
+line0= 
+line1=Szent Mártont hó és szél nyomán 
+line2=A ló viszi, de vágtat ám 
+line3=Szent Márton kedve jó vagyon 
+line4=|: Meleg kabátja, hej nagyon :| 
+soundfile=
+fotofile=
+
+[3]
+caption=Szent Márton hó és szél nyomán / 2 
+lines=5
+line0= 
+line1=A hóban rongyos ember ül 
+line2=Ruhája folt csak egyedül 
+line3=„Segítsetek a nagy bajon 
+line4=|: Mert végem lesz, ha megfagyok” :| 
+soundfile=
+fotofile=
+
+[4]
+caption=Szent Márton hó és szél nyomán / 3 
+lines=5
+line0= 
+line1=Szent Márton int a ló megáll 
+line2=És csöndben áll a koldusnál 
+line3=Szent Márton kardja gyorsan vág 
+line4=|: Kabátja félbe tépve már :| 
+soundfile=
+fotofile=
+
+[5]
+caption=Szent Márton hó és szél nyomán / 4 
+lines=5
+line0= 
+line1=Szent Márton fél kabátot ad 
+line2=A hála érte már fakad 
+line3=De Márton gyorsan lóra száll 
+line4=|: A másik féllel meg sem áll :| 
+soundfile=
+fotofile=
+
+[6]
+caption=Szent Márton hó és szél nyomán / 5 
+lines=5
+line0= 
+line1=Álmában jő egy tiszta fény 
+line2=És lágyan kélő hang beszél 
+line3=„Amit te tettél jó lovag 
+line4=|: A hálám érte elfogadd!” :| 
+soundfile=
+fotofile=
+
+[7]
+caption=Uram, irgalmazz (Augustin) 
+lines=4
+line0= 
+line1=Kyrie, Kyrie eleison. 
+line2=Christe, Christe eleison. 
+line3=Kyrie, Kyrie eleison. 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[9]
+caption=Tied a dicsőség / 2/a 
+lines=4
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+soundfile=
+fotofile=
+
+[10]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[11]
+caption=Tied a dicsőség / 2/b 
+lines=5
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[12]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[13]
+caption=Ébredj fel, te, ki / 1 
+lines=4
+line0=Kelj fel, és ragyogjál, bűnödből tisztuljál, 
+line1=Szentlélek erőd lesz, ébredj most fel! 
+line2=Eljött Ő, benned él, reményt ad, hogy ne félj, 
+line3=Hidd el, hogy Ő az Úr, indulj el, nézd, Ő az út! 
+soundfile=
+fotofile=
+
+[14]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[15]
+caption=Ébredj fel, te, ki / 2 
+lines=4
+line0=Áldjad, én lelkem, Őt, dicsérjed Teremtőd, 
+line1=Irgalma örökké lelkemben él! 
+line2=Dicsőség Atyának, dicsőség Jézusnak, 
+line3=Szentlélek, Éltető, mindenség Istene, áldott légy! 
+soundfile=
+fotofile=
+
+[16]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[17]
+caption=Alleluja (Augustin) 
+lines=2
+line0= 
+line1=Allelúja 
+soundfile=
+fotofile=
+
+[18]
+caption=Tápláló szent kenyér 
+lines=8
+line0=Tápláló szent kenyér, 
+line1=Tápláló drága vér, 
+line2=Betölti szívemet 
+line3=a végtelen. 
+line4=Békémnek záloga, 
+line5=Lelkemnek otthona, 
+line6=Formáld át életem, 
+line7=Légy velem! 
+soundfile=
+fotofile=
+
+[19]
+caption=Szent vagy (Augustin) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus,\.Dominus Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+soundfile=
+fotofile=
+
+[20]
+caption=Isten báránya (Augustin) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi,\.dona nobis pacem. 
+soundfile=
+fotofile=
+
+[21]
+caption=Nincs más Isten / 1 
+lines=5
+line0= 
+line1=Nálad lett borrá a víz, 
+line2=Holtakat életre hívsz. 
+line3=Nincs más Isten, 
+line4=Nincsen más. 
+soundfile=
+fotofile=
+
+[22]
+caption=Nincs más Isten / 2 
+lines=5
+line0= 
+line1=Te ragyogod be az éjt, 
+line2=Te hozod el a reményt. 
+line3=Nincs más Isten, 
+line4=Nincsen más. 
+soundfile=
+fotofile=
+
+[23]
+caption=Nincs más Isten / REF 
+lines=6
+line0=Te vagy az Isten, aki nevére 
+line1=Leborul minden a földön, az égen, 
+line2=Hegyeket mozdít,\.beteget gyógyít az Úr ma is! 
+line3=Te vagy az Isten, aki nevére 
+line4=Leborul minden a földön, az égen, 
+line5=Szíveket hódít,\.sebeket gyógyít az Úr ma is! 
+soundfile=
+fotofile=
+
+[24]
+caption=Nincs más Isten / B 
+lines=3
+line0=És hogyha Isten velünk,\.ember mit árthat nekünk, 
+line1=Mert hogyha Te vagy velünk,\.ki lehet ellenünk? 
+line2=Ki lehet ellenünk? 
+soundfile=
+fotofile=
+
+[25]
+caption=Nincs más Isten / REF 
+lines=6
+line0=Te vagy az Isten, aki nevére 
+line1=Leborul minden a földön, az égen, 
+line2=Hegyeket mozdít,\.beteget gyógyít az Úr ma is! 
+line3=Te vagy az Isten, aki nevére 
+line4=Leborul minden a földön, az égen, 
+line5=Szíveket hódít,\.sebeket gyógyít az Úr ma is! 
+soundfile=
+fotofile=
+
+[26]
+caption=Néked hódolok 
+lines=4
+line0= 
+line1=|: Néked hódolok,\.Jézus, dicső Király :| 
+line2= 
+line3=|: Ujjongj dalolj szívem,\.és imádjad Őt :| 
+soundfile=
+fotofile=
+
+[27]
+caption=Camino / 1 
+lines=9
+line0=Még egy lépés, még egy légzés 
+line1=Még egy ösztönzés. 
+line2=Sáros a lábam, nedves a hátam, 
+line3=Kerget a mennydörgés. 
+line4= 
+line5=De oszlik bennem a homály 
+line6=Lépek úgy is, ha fáj. 
+line7=Isteni, emberi, angyali, démoni 
+line8=Vándorlás. 
+soundfile=
+fotofile=
+
+[28]
+caption=Camino / REF 
+lines=9
+line0=Új lángot lobbants bennem 
+line1=Hisz tőled lesz erőm. 
+line2=Új álmot lássál bennem 
+line3=Krisztus, te vagy a jövőnk! 
+line4= 
+line5=Engedj benned élnem 
+line6=Hisz folyton vágyom rá! 
+line7=Valahol, valahogy, 
+line8=Viszonozhatnám! 
+soundfile=
+fotofile=
+
+[29]
+caption=Camino / 2 
+lines=9
+line0=Még egy fekhely, még egy sebhely, 
+line1=Még egy rejtekhely! 
+line2=Szűk ez a párkány, nem fog a csákány, 
+line3=Másik ösvény kell! 
+line4= 
+line5=De oszlik bennem a homály 
+line6=Lépek úgy is, ha fáj. 
+line7=Isteni, emberi, angyali, démoni 
+line8=Vándorlás! 
+soundfile=
+fotofile=
+
+[30]
+caption=Camino / REF 
+lines=9
+line0=Új lángot lobbants bennem 
+line1=Hisz tőled lesz erőm. 
+line2=Új álmot lássál bennem 
+line3=Krisztus, te vagy a jövőnk! 
+line4= 
+line5=Engedj benned élnem 
+line6=Hisz folyton vágyom rá! 
+line7=Valahol, valahogy, 
+line8=Viszonozhatnám! 
+soundfile=
+fotofile=
+
+[31]
+caption=Camino / CODA 
+lines=4
+line0= 
+line1=Föld és Ég 
+line2=Téged kér, 
+line3=Adj békét! 
+soundfile=
+fotofile=
+
+[32]
+kep=szentev.jpg 
+soundfile=
+fotofile=

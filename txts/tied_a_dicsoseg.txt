@@ -5,7 +5,7 @@ Felemeljük kezeinket,
 Így dicsérjük szent neved. :|
 caption=Tied a dicsőség / 2/a
 
-|: Ó, hatalmas, kezed nagy csodákat tesz,
+|: Ó, hatalmas,\.kezed nagy csodákat tesz,
 Veled senki nem ér fel,
 Veled senki nem ér fel! :|
 caption=Tied a dicsőség / 1
@@ -15,7 +15,7 @@ Felemeljük kezeinket,
 Így dicsérjük szent neved. :|
 caption=Tied a dicsőség / 2/b
 
-|: Ó, hatalmas, kezed nagy csodákat tesz,
+|: Ó, hatalmas,\.kezed nagy csodákat tesz,
 Veled senki nem ér fel,
 Veled senki nem ér fel! :|
 Ó, hatalmas!

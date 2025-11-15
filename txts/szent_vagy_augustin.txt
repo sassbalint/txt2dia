@@ -1,6 +1,6 @@
 caption=Szent vagy (Augustin)
-|: Sanctus, Sanctus, Sanctus, Dominus Deus Sabaoth! :|
+|: Sanctus, Sanctus, Sanctus,\.Dominus Deus Sabaoth! :|
 Pleni sunt caeli et terra gloria Tua.
-|: Hosanna! Hosanna! Hosanna in excelsis Deo! :|
+|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :|
 Benedictus, qui venit in nomine Domini.
-|: Hosanna! Hosanna! Hosanna in excelsis Deo! :|
+|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :|

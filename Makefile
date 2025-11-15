@@ -18,6 +18,9 @@ process:
 	@echo " output: $O (set it using O=...)"
 	@cat $I | python3 $(SCRIPT) | sed "s/$$//" > $O
 
+20251116:
+	make process I="$T/_szentev.txt $T/szent_marton.txt $T/uram_irgalmazz_augustin.txt $T/tied_a_dicsoseg.txt $T/ebredj_fel_te_ki.txt $T/alleluja_augustin.txt $T/taplalo_szent_kenyer.txt $T/szent_vagy_augustin.txt $T/isten_baranya_augustin.txt $T/nincs_mas_isten.txt $T/neked_hodolok.txt $T/camino.txt $T/_szentev.txt" O=outs/20251116.dia
+
 20251019:
 	make process I="$T/_szentev.txt $T/zarandokenek.txt $T/uram_irgalmazz_augustin.txt $T/tied_a_dicsoseg.txt $T/benned_bizom.txt $T/alleluja_augustin.txt $T/annak_ki_a_tronon_ul.txt $T/szent_vagy_augustin.txt $T/isten_baranya_augustin.txt $T/te_vagy_az_ut.txt $T/tobb_erot.txt $T/indulj_es_menj.txt $T/_szentev.txt" O=outs/20251019.dia
 

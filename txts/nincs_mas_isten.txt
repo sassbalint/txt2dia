@@ -1,0 +1,30 @@
+caption=Nincs más Isten / 1
+
+Nálad lett borrá a víz,
+Holtakat életre hívsz.
+Nincs más Isten,
+Nincsen más.
+caption=Nincs más Isten / 2
+
+Te ragyogod be az éjt,
+Te hozod el a reményt.
+Nincs más Isten,
+Nincsen más.
+caption=Nincs más Isten / REF
+Te vagy az Isten, aki nevére
+Leborul minden a földön, az égen,
+Hegyeket mozdít,\.beteget gyógyít az Úr ma is!
+Te vagy az Isten, aki nevére
+Leborul minden a földön, az égen,
+Szíveket hódít,\.sebeket gyógyít az Úr ma is!
+caption=Nincs más Isten / B
+És hogyha Isten velünk,\.ember mit árthat nekünk,
+Mert hogyha Te vagy velünk,\.ki lehet ellenünk?
+Ki lehet ellenünk?
+caption=Nincs más Isten / REF
+Te vagy az Isten, aki nevére
+Leborul minden a földön, az égen,
+Hegyeket mozdít,\.beteget gyógyít az Úr ma is!
+Te vagy az Isten, aki nevére
+Leborul minden a földön, az égen,
+Szíveket hódít,\.sebeket gyógyít az Úr ma is!
