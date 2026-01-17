@@ -1,0 +1,293 @@
+[main]
+diaszam=27
+utf8=1
+
+[1]
+caption=Szent, szent a neve 
+lines=7
+line0=Szent, szent a neve, én Őt dicsérem, 
+line1=Ő erősségem, Jézus. 
+line2=Az én Istenemért mindent veszni hagytam, 
+line3=csak hogy szolgálhassam Jézust. 
+line4= 
+line5=Boldogan megvallhatom, Ő a cél, 
+line6=meghaltam, de élek Jézus Krisztusért! 
+soundfile=
+fotofile=
+
+[2]
+caption=Uram, irgalmazz (Sillye IV.) 
+lines=6
+line0=Uram, irgalmazz! 
+line1=Uram, irgalmazz! 
+line2=Krisztus, kegyelmezz! 
+line3=Krisztus, kegyelmezz! 
+line4=Uram, irgalmazz! 
+line5=Uram, irgalmazz! 
+soundfile=
+fotofile=
+
+[3]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=4
+line0=Dicsőség! Dicsőség a magasságban Istennek! 
+line1=Békesség a Földön minden jószándékú embernek! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+soundfile=
+fotofile=
+
+[4]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=5
+line0=Dicsőség! Istenünkhöz, jó Atyánkhoz szálljon fel! 
+line1=Békesség! Béke, Öröm legyen minden emberrel! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+line4=Dicsőség! Békesség! 
+soundfile=
+fotofile=
+
+[5]
+caption=Béke Istene 
+lines=5
+line0= 
+line1=Béke Istene szállj rám, 
+line2=jöjj el, Mennyei Bárány! 
+line3=Szíved várja a szívem, 
+line4=Jézus, légy menedékem! 
+soundfile=
+fotofile=
+
+[6]
+caption=Zengd velünk / 1 
+lines=6
+line0=Alleluja, alleluja, alleluja! 
+line1= 
+line2=Zengd velünk: örökké jó az Úr, énekeld szeretetét! 
+line3=Izráel háza is mondja hát: zengje hát nagy örömét! 
+line4= 
+line5=Alleluja, alleluja, alleluja! 
+soundfile=
+fotofile=
+
+[7]
+caption=Zengd velünk / 2 
+lines=4
+line0=Az Úr velünk, ki lehet ellenünk, rettegést nem ismerünk, 
+line1=Jobb az Úr ereje énnekem, jobb is, mint az emberé! 
+line2= 
+line3=Alleluja, alleluja, alleluja! 
+soundfile=
+fotofile=
+
+[8]
+caption=Zengd velünk / 3 
+lines=4
+line0=Ő az én teremtő Istenem, Istenem, ki nem hagy el, 
+line1=Benne én ujjongva járhatok, élhetek a tenyerén! 
+line2= 
+line3=Alleluja, alleluja, alleluja! 
+soundfile=
+fotofile=
+
+[9]
+caption=Kenyered és borod / 1 
+lines=5
+line0= 
+line1=Kenyered és borod táplál engem, 
+line2=Te gyógyítod szívem, hogyha fáj. 
+line3=Maradj velem úgy kérlek, Jézus, maradj velem, 
+line4=Tied vagyok, Néked élek már. 
+soundfile=
+fotofile=
+
+[10]
+caption=Kenyered és borod / 2 
+lines=5
+line0= 
+line1=Amíg Veled járok én az Úton, 
+line2=minden gondom mesze, messze száll. 
+line3=Maradj velem úgy kérlek, Jézus, maradj velem, 
+line4=Tied vagyok, Néked élek már. 
+soundfile=
+fotofile=
+
+[11]
+caption=Kenyered és borod / 3 
+lines=5
+line0= 
+line1=Leborulva hálát adok néked, 
+line2=szívemből most hála dala száll. 
+line3=Maradj velem úgy kérlek, Jézus, maradj velem, 
+line4=Tied vagyok, Neked élek már. 
+soundfile=
+fotofile=
+
+[12]
+caption=Szent vagy (Sillye IV.) 
+lines=3
+line0=Szent vagy, szent vagy, szent vagy Mindenség Ura, Istene! 
+line1=Dicsőséged betölti a Mennyet és a Földet. Hozsanna a magasságban! 
+line2=|: Áldott, aki jön az Úr nevében. Hozsanna a magasságban! :| 
+soundfile=
+fotofile=
+
+[13]
+caption=Isten báránya (Sillye IV.) 
+lines=3
+line0=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line1=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line2=Isten Báránya, te elveszed a világ bűneit: adj nekünk békét. 
+soundfile=
+fotofile=
+
+[14]
+caption=Hívlak, Jézus / 1 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=Minden szív és gondolat felett, 
+line3=Mert jelenlétedből békesség árad, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[15]
+caption=Hívlak, Jézus / 2 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=Minden sötét függőség felett, 
+line3=Mert van remény és van teljes szabadság, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[16]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. 
+soundfile=
+fotofile=
+
+[17]
+caption=Hívlak, Jézus / 3 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=A félelem és szorongás felett, 
+line3=A csüggedés vermében szenvedőkért 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[18]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=|: A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. :| 
+soundfile=
+fotofile=
+
+[19]
+caption=Hívlak, Jézus / B 
+lines=6
+line0=|: A hegytetőkről zengjen, 
+line1=Az utcán hirdessék, 
+line2=A sötétségen át kiáltsuk 
+line3=Jézus nagy nevét, 
+line4=Egész családomra 
+line5=Ragyogjon fel e név: Jézus :| 
+soundfile=
+fotofile=
+
+[20]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=|: A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. :| 
+soundfile=
+fotofile=
+
+[21]
+caption=Hívlak, Jézus / 1 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus! 
+line2=Minden szív és gondolat felett, 
+line3=Mert jelenlétedből békesség árad, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[22]
+caption=Ízleld és lásd / 1 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=|: Boldog ember az, ki benne bízik! :| 
+soundfile=
+fotofile=
+
+[23]
+caption=Ízleld és lásd / 2 
+lines=5
+line0= 
+line1=Ízleld és lásd, hogy jó az Úr! 
+line2=Ó, ízleld és lásd, hogy az Úr jó! 
+line3= 
+line4=Ő jó, Ő jó, Ő jó! 
+soundfile=
+fotofile=
+
+[24]
+caption=Indulj és menj / 1 
+lines=3
+line0= 
+line1=Indulj és menj, hirdesd szavam, népemhez küldelek én! 
+line2=Tövis és gaz, vér és panasz, meddig hallgassam még én? 
+soundfile=
+fotofile=
+
+[25]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=
+
+[26]
+caption=Indulj és menj / 2 
+lines=3
+line0= 
+line1=Tüzessé teszem ajkaidat, gyémánttá homlokodat, 
+line2=Népemnek őrévé rendellek én, lelkemet adom melléd! 
+soundfile=
+fotofile=
+
+[27]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=

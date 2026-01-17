@@ -4,10 +4,14 @@ Alleluja, alleluja, alleluja!
 Zengd velünk: örökké jó az Úr, énekeld szeretetét!
 Izráel háza is mondja hát: zengje hát nagy örömét!
 
-caption=Zengd velünk / 2
 Alleluja, alleluja, alleluja!
-
+caption=Zengd velünk / 2
 Az Úr velünk, ki lehet ellenünk, rettegést nem ismerünk,
 Jobb az Úr ereje énnekem, jobb is, mint az emberé!
+
+Alleluja, alleluja, alleluja!
+caption=Zengd velünk / 3
+Ő az én teremtő Istenem, Istenem, ki nem hagy el,
+Benne én ujjongva járhatok, élhetek a tenyerén!
 
 Alleluja, alleluja, alleluja!
