@@ -1,0 +1,27 @@
+caption=Az éj sötét / 1
+
+Tovatűnt már az élet
+Hova tűnt el a fényed
+Amit lángra lobbantottál szívemben?
+caption=Az éj sötét / 2
+
+Tovaszállt már az élet
+De én őrzöm még a képet
+Amit kősziklába véstél: szívembe.
+caption=Az éj sötét / REF
+
+Az éj sötét - úgy fojtja a szívem
+Az éj sötét - és nem felel.
+Mindig reméld, hogy a fény újra éled:
+Fellobban a láng.
+caption=Az éj sötét / 3
+
+Tovatűnt már az élet
+De én új harcot remélek
+Velünk maradsz mindörökké, érzem.
+caption=Az éj sötét / REF
+
+|: Az éj sötét - úgy fojtja a szívem
+Az éj sötét - és nem felel.
+Mindig reméld, hogy a fény újra éled:
+Fellobban a láng. :|

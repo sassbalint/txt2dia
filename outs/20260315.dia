@@ -1,0 +1,355 @@
+[main]
+diaszam=36
+utf8=1
+
+[1]
+kep=nagyb4.png 
+soundfile=
+fotofile=
+
+[2]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[3]
+caption=Ébredj fel, te, ki / 1 
+lines=4
+line0=Kelj fel, és ragyogjál, bűnödből tisztuljál, 
+line1=Szentlélek erőd lesz, ébredj most fel! 
+line2=Eljött Ő, benned él, reményt ad, hogy ne félj, 
+line3=Hidd el, hogy Ő az Úr, indulj el, nézd, Ő az út! 
+soundfile=
+fotofile=
+
+[4]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[5]
+caption=Ébredj fel, te, ki / 2 
+lines=4
+line0=Áldjad, én lelkem, Őt, dicsérjed Teremtőd, 
+line1=Irgalma örökké lelkemben él! 
+line2=Dicsőség Atyának, dicsőség Jézusnak, 
+line3=Szentlélek, Éltető, mindenség Istene, áldott légy! 
+soundfile=
+fotofile=
+
+[6]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[7]
+caption=Uram, irgalmazz (Augustin) 
+lines=4
+line0= 
+line1=Kyrie, Kyrie eleison. 
+line2=Christe, Christe eleison. 
+line3=Kyrie, Kyrie eleison. 
+soundfile=
+fotofile=
+
+[8]
+caption=Teremts bennem 
+lines=6
+line0=|: Teremts bennem tiszta szívet, ó, Uram! 
+line1=Az erős lelket újítsd meg bennem! :| 
+line2=|: Ne vess el engem a Te orcád elől, 
+line3=Szentlelked ne vond meg tőlem! 
+line4=Támogass az engedelmesség lelkével, 
+line5=Szabadításod örömét add nekem! :| 
+soundfile=
+fotofile=
+
+[9]
+caption=Jöjj, Szentlélek, jöjj közénk / REF 
+lines=3
+line0= 
+line1=Jöjj Szentlélek, jöjj közénk, jöjj el fényességünk, 
+line2=Jöjj tüzes Lélek, lobbantsd lángra szívünk! 
+soundfile=
+fotofile=
+
+[10]
+caption=Jöjj, Szentlélek, jöjj közénk / 1 
+lines=3
+line0= 
+line1=Jöjj Atyánk Lelke, hozz fényt nekünk, 
+line2=Küldd el a mennyből Lelked nagy erejét. 
+soundfile=
+fotofile=
+
+[11]
+caption=Jöjj, Szentlélek, jöjj közénk / REF 
+lines=3
+line0= 
+line1=Jöjj Szentlélek, jöjj közénk, jöjj el fényességünk, 
+line2=Jöjj tüzes Lélek, lobbantsd lángra szívünk! 
+soundfile=
+fotofile=
+
+[12]
+caption=Jöjj, Szentlélek, jöjj közénk / 2 
+lines=3
+line0= 
+line1=Jöjj életünkbe, hozz gyógyulást, 
+line2=Szívünk és a testünk égi kenetre vár. 
+soundfile=
+fotofile=
+
+[13]
+caption=Jöjj, Szentlélek, jöjj közénk / REF 
+lines=3
+line0= 
+line1=Jöjj Szentlélek, jöjj közénk, jöjj el fényességünk, 
+line2=Jöjj tüzes Lélek, lobbantsd lángra szívünk! 
+soundfile=
+fotofile=
+
+[14]
+caption=Hiszekegy / 1 
+lines=4
+line0=Hiszek az egy Istenben, mindenható Atyában, 
+line1=mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében. 
+line2=Hiszek az egy Úrban, Jézus Krisztusban, Isten egyszülött Fiában, 
+line3=aki az Atyától született az idő kezdete előtt. 
+soundfile=
+fotofile=
+
+[15]
+caption=Hiszekegy / 2 
+lines=4
+line0=Isten az Istentől, világosság a világosságtól, 
+line1=valóságos Isten a valóságos Istentől. 
+line2=Született, de nem teremtmény, 
+line3=az Atyával egylényegű és minden általa lett. 
+soundfile=
+fotofile=
+
+[16]
+caption=Hiszekegy / 3 
+lines=4
+line0=Értünk emberekért, a mi üdvösségünkért, leszállott a mennyből. 
+line1=Megtestesült a Szentlélek erejéből Szűz Máriától és emberré lett. 
+line2=Poncius Pilátus alatt értünk keresztre feszítették, 
+line3=kínhalált szenvedett és eltemették. 
+soundfile=
+fotofile=
+
+[17]
+caption=Hiszekegy / 4 
+lines=4
+line0=Harmadnapra föltámadott az Írások szerint, 
+line1=fölment a mennybe, ott ül az Atyának jobbján, 
+line2=de újra eljön dicsőségben ítélni élőket és holtakat 
+line3=és országának nem lesz vége. 
+soundfile=
+fotofile=
+
+[18]
+caption=Hiszekegy / 5 
+lines=5
+line0=Hiszek a Szentlélekben, Urunkban és éltetőnkben, 
+line1=aki az Atyától és Fiútól származik, 
+line2=akit éppúgy imádunk és dicsőítünk 
+line3=mint az Atyát és a Fiút, 
+line4=Ő szólt a próféták szavával. 
+soundfile=
+fotofile=
+
+[19]
+caption=Hiszekegy / 6 
+lines=4
+line0=Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban. 
+line1=Vallom az egy keresztséget a bűnök bocsánatára. 
+line2=Várom a holtak föltámadását 
+line3=és az eljövendő örök életet. Amen. 
+soundfile=
+fotofile=
+
+[20]
+caption=Apokrif ima (Oldani) / 1 
+lines=4
+line0=Oldani, Uram, s oldódni vágyom, 
+line1=Üdvözíteni s üdvözülni vágyom. 
+line2=Alkotni, Uram, s alakulni vágyom, 
+line3=Alkotni, Uram, s alakulni vágyom. 
+soundfile=
+fotofile=
+
+[21]
+caption=Apokrif ima (Oldani) / 2 
+lines=4
+line0=Ékesíteni és ékeskedni vágyom, 
+line1=Dalolni, Uram, és dallá lenni vágyom. 
+line2=Követeddé lenni s Érted tenni vágyom, 
+line3=Követeddé lenni s Érted tenni vágyom. 
+soundfile=
+fotofile=
+
+[22]
+caption=Apokrif ima (Oldani) / 3 
+lines=4
+line0=Lámpád vagyok, ha látsz engem, 
+line1=Ajtód vagyok, ha zörgetsz bennem. 
+line2=Ki látod, mit teszek, hallgass el engem, 
+line3=Ki látod, mit teszek, hallgass el engem! 
+soundfile=
+fotofile=
+
+[23]
+caption=Szent vagy (Augustin) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus,\.Dominus Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+soundfile=
+fotofile=
+
+[24]
+caption=Isten báránya (Augustin) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi,\.dona nobis pacem. 
+soundfile=
+fotofile=
+
+[25]
+caption=Jövök a kereszthez / 1 
+lines=4
+line0=Jövök a kereszthez, jövök a kereszthez, 
+line1=Neked halált hozott, nekem életet. 
+line2=Jövök a kereszthez, jövök a kereszthez, 
+line3=Az élet forrása testedből ered. 
+soundfile=
+fotofile=
+
+[26]
+caption=Jövök a kereszthez / REFa 
+lines=4
+line0=Nincsen más hely, ahol megpihenhetek, 
+line1=Nincsen más mód, hogy letegyem bűnömet, 
+line2=Amit gondolattal, tettel, vagy szóval elkövettem. 
+line3=Teremts újra tiszta szívet bennem! 
+soundfile=
+fotofile=
+
+[27]
+caption=Jövök a kereszthez / 1 
+lines=4
+line0=Jövök a kereszthez, jövök a kereszthez, 
+line1=Neked halált hozott, nekem életet. 
+line2=Jövök a kereszthez, jövök a kereszthez, 
+line3=Az élet forrása testedből ered. 
+soundfile=
+fotofile=
+
+[28]
+caption=Jövök a kereszthez / REFb 
+lines=4
+line0=|: Nincsen más út, mely szabadságra vezet, 
+line1=Nincsen más vér, mely elmossa bűnömet, 
+line2=Jézus, hűséges Istenem, vonj Magadhoz engem! 
+line3=Teremts újra tiszta szívet bennem! :| 
+soundfile=
+fotofile=
+
+[29]
+caption=Rejts most el / 1 
+lines=5
+line0=Rejts most el a szárnyad alá, erős kézzel takarj be engem. 
+line1=Tenger tombol, zúg, süvít a szél, 
+line2=Te emelsz fel a vihar fölé. 
+line3=Uralkodsz hullámok habjain, 
+line4=Szívem nem fél, Benned remél. 
+soundfile=
+fotofile=
+
+[30]
+caption=Rejts most el / 2 
+lines=5
+line0=Csak Istenben bízz én lelkem, mert Ő él, nagyobb mindennél. 
+line1=|: Tenger tombol, zúg, süvít a szél, 
+line2=Te emelsz fel a vihar fölé. 
+line3=Uralkodsz hullámok habjain, 
+line4=Szívem nem fél, Benned remél. :| 
+soundfile=
+fotofile=
+
+[31]
+caption=Az éj sötét / 1 
+lines=4
+line0= 
+line1=Tovatűnt már az élet 
+line2=Hova tűnt el a fényed 
+line3=Amit lángra lobbantottál szívemben? 
+soundfile=
+fotofile=
+
+[32]
+caption=Az éj sötét / 2 
+lines=4
+line0= 
+line1=Tovaszállt már az élet 
+line2=De én őrzöm még a képet 
+line3=Amit kősziklába véstél: szívembe. 
+soundfile=
+fotofile=
+
+[33]
+caption=Az éj sötét / REF 
+lines=5
+line0= 
+line1=Az éj sötét - úgy fojtja a szívem 
+line2=Az éj sötét - és nem felel. 
+line3=Mindig reméld, hogy a fény újra éled: 
+line4=Fellobban a láng. 
+soundfile=
+fotofile=
+
+[34]
+caption=Az éj sötét / 3 
+lines=4
+line0= 
+line1=Tovatűnt már az élet 
+line2=De én új harcot remélek 
+line3=Velünk maradsz mindörökké, érzem. 
+soundfile=
+fotofile=
+
+[35]
+caption=Az éj sötét / REF 
+lines=5
+line0= 
+line1=|: Az éj sötét - úgy fojtja a szívem 
+line2=Az éj sötét - és nem felel. 
+line3=Mindig reméld, hogy a fény újra éled: 
+line4=Fellobban a láng. :| 
+soundfile=
+fotofile=
+
+[36]
+kep=nagyb4.png 
+soundfile=
+fotofile=
