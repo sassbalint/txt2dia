@@ -1,0 +1,458 @@
+[main]
+diaszam=42
+utf8=1
+
+[1]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[2]
+caption=Ébredj fel, te, ki / 1 
+lines=4
+line0=Kelj fel, és ragyogjál, bűnödből tisztuljál, 
+line1=Szentlélek erőd lesz, ébredj most fel! 
+line2=Eljött Ő, benned él, reményt ad, hogy ne félj, 
+line3=Hidd el, hogy Ő az Úr, indulj el, nézd, Ő az út! 
+soundfile=
+fotofile=
+
+[3]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[4]
+caption=Ébredj fel, te, ki / 2 
+lines=4
+line0=Áldjad, én lelkem, Őt, dicsérjed Teremtőd, 
+line1=Irgalma örökké lelkemben él! 
+line2=Dicsőség Atyának, dicsőség Jézusnak, 
+line3=Szentlélek, Éltető, mindenség Istene, áldott légy! 
+soundfile=
+fotofile=
+
+[5]
+caption=Ébredj fel, te, ki / REF 
+lines=4
+line0=Ébredj fel, te, ki bűnben jársz, 
+line1=Jöjj mert Nála az élet vár! 
+line2=Jézus vére az üdvösség, 
+line3=Gyere, add át szíved,\.és Ő benned él! 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram, irgalmazz (Augustin) 
+lines=4
+line0= 
+line1=Kyrie, Kyrie eleison. 
+line2=Christe, Christe eleison. 
+line3=Kyrie, Kyrie eleison. 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 2/a 
+lines=4
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+soundfile=
+fotofile=
+
+[9]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[10]
+caption=Tied a dicsőség / 2/b 
+lines=5
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[11]
+caption=Uram, Tehozzád futok / 1 
+lines=7
+line0=Uram, Tehozzád futok, 
+line1=Élő vízre szomjazom, 
+line2=Közelséged ó mily jó énnekem. 
+line3= 
+line4=Kérlek, ne menj el tőlem, 
+line5=Légy mindig segítségem, 
+line6=Úgy kívánlak Téged, Istenem. 
+soundfile=
+fotofile=
+
+[12]
+caption=Uram, Tehozzád futok / REF 
+lines=8
+line0=Én pedig szüntelen remélek, 
+line1=Egyre jobban dícsérlek, 
+line2=Ajkam beszéli a Te igazságodat. 
+line3= 
+line4=Hadd legyen most a dalom 
+line5=Jó illat oltárodon, 
+line6=|: Nagyon szeretlek Téged, :| 
+line7=Nagyon szeretlek Téged, Jézusom! 
+soundfile=
+fotofile=
+
+[13]
+caption=Alleluja (Augustin) 
+lines=2
+line0= 
+line1=Allelúja 
+soundfile=
+fotofile=
+
+[14]
+caption=Hiszekegy / 1 
+lines=4
+line0=Hiszek az egy Istenben, mindenható Atyában, 
+line1=mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében. 
+line2=Hiszek az egy Úrban, Jézus Krisztusban, Isten egyszülött Fiában, 
+line3=aki az Atyától született az idő kezdete előtt. 
+soundfile=
+fotofile=
+
+[15]
+caption=Hiszekegy / 2 
+lines=4
+line0=Isten az Istentől, világosság a világosságtól, 
+line1=valóságos Isten a valóságos Istentől. 
+line2=Született, de nem teremtmény, 
+line3=az Atyával egylényegű és minden általa lett. 
+soundfile=
+fotofile=
+
+[16]
+caption=Hiszekegy / 3 
+lines=4
+line0=Értünk emberekért, a mi üdvösségünkért, leszállott a mennyből. 
+line1=Megtestesült a Szentlélek erejéből Szűz Máriától és emberré lett. 
+line2=Poncius Pilátus alatt értünk keresztre feszítették, 
+line3=kínhalált szenvedett és eltemették. 
+soundfile=
+fotofile=
+
+[17]
+caption=Hiszekegy / 4 
+lines=4
+line0=Harmadnapra föltámadott az Írások szerint, 
+line1=fölment a mennybe, ott ül az Atyának jobbján, 
+line2=de újra eljön dicsőségben ítélni élőket és holtakat 
+line3=és országának nem lesz vége. 
+soundfile=
+fotofile=
+
+[18]
+caption=Hiszekegy / 5 
+lines=5
+line0=Hiszek a Szentlélekben, Urunkban és éltetőnkben, 
+line1=aki az Atyától és Fiútól származik, 
+line2=akit éppúgy imádunk és dicsőítünk 
+line3=mint az Atyát és a Fiút, 
+line4=Ő szólt a próféták szavával. 
+soundfile=
+fotofile=
+
+[19]
+caption=Hiszekegy / 6 
+lines=4
+line0=Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban. 
+line1=Vallom az egy keresztséget a bűnök bocsánatára. 
+line2=Várom a holtak föltámadását 
+line3=és az eljövendő örök életet. Amen. 
+soundfile=
+fotofile=
+
+[20]
+caption=Napfívér, Holdnővér / 1 
+lines=7
+line0=Fivérem, Nap és nővérem, Hold, 
+line1=Oly' ritkán látlak, s hallom hangotok. 
+line2=Nyomaszt a sok gyötrelem és gond. 
+line3= 
+line4=Fivérem, szél és nővérem, lég, 
+line5=Nyisd ki a szemem, hogy lássam, ami szép. 
+line6=Körülölel ragyogás, dicsfény. 
+soundfile=
+fotofile=
+
+[21]
+caption=Napfívér, Holdnővér / 2 
+lines=6
+line0=Mert Isten műve minden földi lény, 
+line1=Érzem jóságát, s szívem újra él. 
+line2= 
+line3=Fivérem, Nap és nővérem, Hold, 
+line4=Most végre látlak, s hallom hangotok, 
+line5=És megölelném az egész világot. 
+soundfile=
+fotofile=
+
+[22]
+caption=Szent vagy (Augustin) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus,\.Dominus Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+soundfile=
+fotofile=
+
+[23]
+caption=Isten báránya (Augustin) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi,\.dona nobis pacem. 
+soundfile=
+fotofile=
+
+[24]
+caption=Nincs más Isten / 1 
+lines=5
+line0= 
+line1=Nálad lett borrá a víz, 
+line2=Holtakat életre hívsz. 
+line3=Nincs más Isten, 
+line4=Nincsen más. 
+soundfile=
+fotofile=
+
+[25]
+caption=Nincs más Isten / 2 
+lines=5
+line0= 
+line1=Te ragyogod be az éjt, 
+line2=Te hozod el a reményt. 
+line3=Nincs más Isten, 
+line4=Nincsen más. 
+soundfile=
+fotofile=
+
+[26]
+caption=Nincs más Isten / REF 
+lines=6
+line0=Te vagy az Isten, aki nevére 
+line1=Leborul minden a földön, az égen, 
+line2=Hegyeket mozdít,\.beteget gyógyít az Úr ma is! 
+line3=Te vagy az Isten, aki nevére 
+line4=Leborul minden a földön, az égen, 
+line5=Szíveket hódít,\.sebeket gyógyít az Úr ma is! 
+soundfile=
+fotofile=
+
+[27]
+caption=Nincs más Isten / B 
+lines=3
+line0=És hogyha Isten velünk,\.ember mit árthat nekünk, 
+line1=Mert hogyha Te vagy velünk,\.ki lehet ellenünk? 
+line2=Ki lehet ellenünk? 
+soundfile=
+fotofile=
+
+[28]
+caption=Nincs más Isten / REF 
+lines=6
+line0=Te vagy az Isten, aki nevére 
+line1=Leborul minden a földön, az égen, 
+line2=Hegyeket mozdít,\.beteget gyógyít az Úr ma is! 
+line3=Te vagy az Isten, aki nevére 
+line4=Leborul minden a földön, az égen, 
+line5=Szíveket hódít,\.sebeket gyógyít az Úr ma is! 
+soundfile=
+fotofile=
+
+[29]
+caption=Hadd legyek Nálad / 1 
+lines=4
+line0=Hadd legyek Nálad, házam a házad! 
+line1=Életem védd, ne törjön rám gonosz ellenség! Óvj! 
+line2=Ha közel az órám, Magadhoz hívjál! 
+line3=Ott minden szent velem zeng, áldja neved örökké! 
+soundfile=
+fotofile=
+
+[30]
+caption=Hadd legyek Nálad / REF 
+lines=7
+line0=Krisztus Lelke, szentelj meg engem! 
+line1=Krisztus Teste, üdvözíts engem! 
+line2=Krisztus Vére, ihless meg engem! 
+line3=Feltörő víz Jézus oldalán, 
+line4=Mosd tisztára hófehér ruhám! 
+line5=Halld meg hangom, majd ha Téged szólít! 
+line6=Sebeiddel ölelj át! 
+soundfile=
+fotofile=
+
+[31]
+caption=Hadd legyek Nálad / 2 
+lines=4
+line0=Hadd legyek Nálad, házam a házad! 
+line1=Legyen erőm mindaz a kín, ami Téged elér, s fáj! 
+line2=Ha közel az órám, Magadhoz hívjál! 
+line3=Ott minden szent velem zeng, áldja neved örökké! 
+soundfile=
+fotofile=
+
+[32]
+caption=Hadd legyek Nálad / REF 
+lines=7
+line0=Krisztus Lelke, szentelj meg engem! 
+line1=Krisztus Teste, üdvözíts engem! 
+line2=Krisztus Vére, ihless meg engem! 
+line3=Feltörő víz Jézus oldalán, 
+line4=Mosd tisztára hófehér ruhám! 
+line5=Halld meg hangom, majd ha Téged szólít! 
+line6=Sebeiddel ölelj át! 
+soundfile=
+fotofile=
+
+[33]
+caption=Csak Jézusnak / REF 
+lines=5
+line0= 
+line1=Csak Jézusnak szolgálok, 
+line2=Az Ő országát várom, 
+line3=Mert eljön Ő, az Üdvözítő. 
+line4=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[34]
+caption=Csak Jézusnak / 1 
+lines=5
+line0= 
+line1=Áldjad, lelkem, Őt, dicsérd Teremtőd 
+line2=Most és mindörökké! Amen. 
+line3=Áldja minden nép dicső, szent nevét 
+line4=Most és mindörökké! Amen. 
+soundfile=
+fotofile=
+
+[35]
+caption=Csak Jézusnak / REF 
+lines=5
+line0= 
+line1=Csak Jézusnak szolgálok, 
+line2=Az Ő országát várom, 
+line3=Mert eljön Ő, az Üdvözítő. 
+line4=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[36]
+caption=Csak Jézusnak / 2 
+lines=5
+line0= 
+line1=Hálát adjatok, áldást mondjatok 
+line2=Most és mindörökké! Amen. 
+line3=Egyházad dicsér, nagy jóságodért 
+line4=Most és mindörökké! Amen. 
+soundfile=
+fotofile=
+
+[37]
+caption=Csak Jézusnak / REF 
+lines=5
+line0= 
+line1=Csak Jézusnak szolgálok, 
+line2=Az Ő országát várom, 
+line3=Mert eljön Ő, az Üdvözítő. 
+line4=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[38]
+caption=Csak Jézusnak / 3 
+lines=5
+line0= 
+line1=Erős vár az Úr, menedéket nyújt 
+line2=Most és mindörökké! Amen. 
+line3=Áldott irgalom, véred oltalom 
+line4=Most és mindörökké! Amen. 
+soundfile=
+fotofile=
+
+[39]
+caption=Csak Jézusnak / REF 
+lines=5
+line0= 
+line1=Csak Jézusnak szolgálok, 
+line2=Az Ő országát várom, 
+line3=Mert eljön Ő, az Üdvözítő. 
+line4=Ó, Jézus, feltámadt Király! 
+soundfile=
+fotofile=
+
+[40]
+caption=Röpke fohász DÚR:160 / REF 
+lines=5
+line0= 
+line1=|: Röpke fohászként száll a dal 
+line2=Égbe szárnyaló madár, 
+line3=Fészkét elhagyta már, 
+line4=Hozzád talál. :| 
+soundfile=
+fotofile=
+
+[41]
+caption=Röpke fohász DÚR:160 / 1 
+lines=7
+line0=Élsz, vagy utazol bárhol, 
+line1=De Hozzá szól a szív, 
+line2=Bánat ér vagy öröm táncra hív. 
+line3=Mint forrás tört fel a sóhaj, 
+line4=Mint tenger árad a hála. 
+line5=Hallja Ő, egy szó elég, 
+line6=Az egekig felér! 
+soundfile=
+fotofile=
+
+[42]
+caption=Röpke fohász DÚR:160 / REF 
+lines=5
+line0= 
+line1=|: Röpke fohászként száll a dal 
+line2=Égbe szárnyaló madár, 
+line3=Fészkét elhagyta már, 
+line4=Hozzád talál. :| 
+soundfile=
+fotofile=

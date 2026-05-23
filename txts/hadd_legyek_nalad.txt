@@ -1,0 +1,26 @@
+caption=Hadd legyek Nálad / 1
+Hadd legyek Nálad, házam a házad!
+Életem védd, ne törjön rám gonosz ellenség! Óvj!
+Ha közel az órám, Magadhoz hívjál!
+Ott minden szent velem zeng, áldja neved örökké!
+caption=Hadd legyek Nálad / REF
+Krisztus Lelke, szentelj meg engem!
+Krisztus Teste, üdvözíts engem!
+Krisztus Vére, ihless meg engem!
+Feltörő víz Jézus oldalán,
+Mosd tisztára hófehér ruhám!
+Halld meg hangom, majd ha Téged szólít!
+Sebeiddel ölelj át!
+caption=Hadd legyek Nálad / 2
+Hadd legyek Nálad, házam a házad!
+Legyen erőm mindaz a kín, ami Téged elér, s fáj!
+Ha közel az órám, Magadhoz hívjál!
+Ott minden szent velem zeng, áldja neved örökké!
+caption=Hadd legyek Nálad / REF
+Krisztus Lelke, szentelj meg engem!
+Krisztus Teste, üdvözíts engem!
+Krisztus Vére, ihless meg engem!
+Feltörő víz Jézus oldalán,
+Mosd tisztára hófehér ruhám!
+Halld meg hangom, majd ha Téged szólít!
+Sebeiddel ölelj át!
