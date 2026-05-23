@@ -1,0 +1,459 @@
+[main]
+diaszam=44
+utf8=1
+
+[1]
+caption=Oltárodhoz jöttem én / 1 
+lines=4
+line0=Oltárodhoz jöttem én kiskirályom, 
+line1=Dicsőséged ünnepén, virágszálom. 
+line2=Boldogságos gyermek, nyisd ki titkos kerted 
+line3=Csillogó mennyországom. 
+soundfile=
+fotofile=
+
+[2]
+caption=Oltárodhoz jöttem én / 2 
+lines=4
+line0=Rajtad ékes korona, kis királyom, 
+line1=Dicsér szívek kórusa, virágszálom. 
+line2=Boldogságos gyermek, nyisd ki titkos kerted 
+line3=Csillogó mennyországom. 
+soundfile=
+fotofile=
+
+[3]
+caption=Oltárodhoz jöttem én / 3 
+lines=4
+line0=Ne tekintsd most vétkemet, kiskirályom. 
+line1=Mutasd kegyes szívedet, virágszálom. 
+line2=Boldogságos gyermek, nyisd ki titkos kerted 
+line3=Csillogó mennyországom. 
+soundfile=
+fotofile=
+
+[4]
+caption=Ím ma az egész égbolt / 1 
+lines=8
+line0=Ím, ma az egész égbolt 
+line1=Miként nevet, ragyog, 
+line2=Ó, mert az Úr szerezte 
+line3=Nekünk e szép napot. 
+line4=Az Úrnak napján ne feledd, 
+line5=Hogy hozzá vidd a szívedet. 
+line6=Szenteld meg, szenteld meg 
+line7=Buzgón ez ünnepet! 
+soundfile=
+fotofile=
+
+[5]
+caption=Ím ma az egész égbolt / 2 
+lines=8
+line0=És ha az Úrnak napja 
+line1=Ily szép már idelenn, 
+line2=Mi lesz ott fenn, ha lelkem 
+line3=Az Úrnál megjelen. 
+line4=Az Úrnak napján ne feledd, 
+line5=Hogy hozzá vidd a szívedet. 
+line6=Szenteld meg, szenteld meg 
+line7=Buzgón ez ünnepet! 
+soundfile=
+fotofile=
+
+[6]
+caption=Uram, irgalmazz (Augustin) 
+lines=4
+line0= 
+line1=Kyrie, Kyrie eleison. 
+line2=Christe, Christe eleison. 
+line3=Kyrie, Kyrie eleison. 
+soundfile=
+fotofile=
+
+[7]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=4
+line0=Dicsőség! Dicsőség a magasságban Istennek! 
+line1=Békesség a Földön minden jószándékú embernek! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=5
+line0=Dicsőség! Istenünkhöz, jó Atyánkhoz szálljon fel! 
+line1=Békesség! Béke, Öröm legyen minden emberrel! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+line4=Dicsőség! Békesség! 
+soundfile=
+fotofile=
+
+[9]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[10]
+caption=Szentlélek jöjj, lobogó láng / 1 
+lines=5
+line0= 
+line1=Jöjj el élő vízforrás, 
+line2=Jöjj, a szívünk Téged vár, 
+line3=Jöjj, ki fényt adsz lelkünknek, 
+line4=Jöjj, úgy vágyunk Rád. 
+soundfile=
+fotofile=
+
+[11]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[12]
+caption=Szentlélek jöjj, lobogó láng / 2 
+lines=5
+line0= 
+line1=Jöjj igazság forrása, 
+line2=Jöjj, imádunk mindnyájan, 
+line3=Jöjj, reményünk éleszd fel, 
+line4=Jöjj kegyelmeddel. 
+soundfile=
+fotofile=
+
+[13]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[14]
+caption=Szentlélek jöjj, lobogó láng / 3 
+lines=5
+line0= 
+line1=Jöjj, a néped gyűjtsd egybe, 
+line2=Jöjj, az alvót ébreszd fel, 
+line3=Jöjj, a bűntől tisztíts meg, 
+line4=Bátoríts minket. 
+soundfile=
+fotofile=
+
+[15]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[16]
+caption=Alleluja (Augustin) 
+lines=2
+line0= 
+line1=Allelúja 
+soundfile=
+fotofile=
+
+[17]
+caption=Hiszekegy / 1 
+lines=4
+line0=Hiszek az egy Istenben, mindenható Atyában, 
+line1=mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében. 
+line2=Hiszek az egy Úrban, Jézus Krisztusban, Isten egyszülött Fiában, 
+line3=aki az Atyától született az idő kezdete előtt. 
+soundfile=
+fotofile=
+
+[18]
+caption=Hiszekegy / 2 
+lines=4
+line0=Isten az Istentől, világosság a világosságtól, 
+line1=valóságos Isten a valóságos Istentől. 
+line2=Született, de nem teremtmény, 
+line3=az Atyával egylényegű és minden általa lett. 
+soundfile=
+fotofile=
+
+[19]
+caption=Hiszekegy / 3 
+lines=4
+line0=Értünk emberekért, a mi üdvösségünkért, leszállott a mennyből. 
+line1=Megtestesült a Szentlélek erejéből Szűz Máriától és emberré lett. 
+line2=Poncius Pilátus alatt értünk keresztre feszítették, 
+line3=kínhalált szenvedett és eltemették. 
+soundfile=
+fotofile=
+
+[20]
+caption=Hiszekegy / 4 
+lines=4
+line0=Harmadnapra föltámadott az Írások szerint, 
+line1=fölment a mennybe, ott ül az Atyának jobbján, 
+line2=de újra eljön dicsőségben ítélni élőket és holtakat 
+line3=és országának nem lesz vége. 
+soundfile=
+fotofile=
+
+[21]
+caption=Hiszekegy / 5 
+lines=5
+line0=Hiszek a Szentlélekben, Urunkban és éltetőnkben, 
+line1=aki az Atyától és Fiútól származik, 
+line2=akit éppúgy imádunk és dicsőítünk 
+line3=mint az Atyát és a Fiút, 
+line4=Ő szólt a próféták szavával. 
+soundfile=
+fotofile=
+
+[22]
+caption=Hiszekegy / 6 
+lines=4
+line0=Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban. 
+line1=Vallom az egy keresztséget a bűnök bocsánatára. 
+line2=Várom a holtak föltámadását 
+line3=és az eljövendő örök életet. Amen. 
+soundfile=
+fotofile=
+
+[23]
+caption=Fogadd tőlünk, égi Atyánk / 1 
+lines=4
+line0=Fogadd tőlünk, égi Atyánk, mindenható Isten, 
+line1=ezt az örök áldozatot, melyet Fiad itt lenn 
+line2=szeplőtelen adományul valóságra váltott, 
+line3=mellyel a mi bűneinkért hozzád felkiáltott. 
+soundfile=
+fotofile=
+
+[24]
+caption=Fogadd tőlünk, égi Atyánk / 2 
+lines=4
+line0=Bántásaink, mulasztásaink árát megfizette, 
+line1=minden igaz keresztényért színed elé tette, 
+line2=élőkért és megholtakért, hogy üdvünkre váljon, 
+line3=és hogy minden emberlélek hozzád eltaláljon. 
+soundfile=
+fotofile=
+
+[25]
+caption=Fogadd tőlünk, égi Atyánk / 3 
+lines=5
+line0=Fölajánjuk néked, Uram, üdvösségünk kelyhét, 
+line1=jóságodhoz esedezünk, vedd el bűnünk terhét, 
+line2=illatozva szálljon hozzád üdvösségünk ára, 
+line3=Fölségednek trónja elé, 
+line4=Istenséged színe elé, egyházunk javára. 
+soundfile=
+fotofile=
+
+[26]
+caption=Szent vagy (Augustin) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus,\.Dominus Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+soundfile=
+fotofile=
+
+[27]
+caption=Isten báránya (Augustin) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi,\.dona nobis pacem. 
+soundfile=
+fotofile=
+
+[28]
+caption=Lelkem, áldd az Urat / REF 
+lines=4
+line0=Lelkem áldd az Urat, áldd az Urat! 
+line1=Egyedül Őt imádd! 
+line2=Zengj úgy, mint soha még, Őt dícsérd! 
+line3=Lelkem csak Téged áld! 
+soundfile=
+fotofile=
+
+[29]
+caption=Lelkem, áldd az Urat / 1 
+lines=4
+line0=Egy új nap kél és már ébred minden, 
+line1=itt az idő, hogy áldjalak, 
+line2=És bármi ér ma, bármit rejt az út előttem, 
+line3=Hadd zengjek este is majd hálával. 
+soundfile=
+fotofile=
+
+[30]
+caption=Lelkem, áldd az Urat / REF 
+lines=4
+line0=Lelkem áldd az Urat, áldd az Urat! 
+line1=Egyedül Őt imádd! 
+line2=Zengj úgy, mint soha még, Őt dícsérd! 
+line3=Lelkem csak Téged áld! 
+soundfile=
+fotofile=
+
+[31]
+caption=Lelkem, áldd az Urat / 2 
+lines=4
+line0=Kegyelmed nagy és türelmed hosszú, 
+line1=Szerelmed mély és az égig ér. 
+line2=Nem szűnök énekelni jóságodról, 
+line3=Tízezer okom van, hogy zengjek még. 
+soundfile=
+fotofile=
+
+[32]
+caption=Lelkem, áldd az Urat / REF 
+lines=4
+line0=Lelkem áldd az Urat, áldd az Urat! 
+line1=Egyedül Őt imádd! 
+line2=Zengj úgy, mint soha még, Őt dícsérd! 
+line3=Lelkem csak Téged áld! 
+soundfile=
+fotofile=
+
+[33]
+caption=Lelkem, áldd az Urat / 3 
+lines=4
+line0=Egy nap majd ez a test elgyengül, 
+line1=Erőm elhagy, utam véget ér. 
+line2=A lelkem mégis Téged áld vég nélkül 
+line3=Tízezer évig és mindörökké. 
+soundfile=
+fotofile=
+
+[34]
+caption=Lelkem, áldd az Urat / REF 
+lines=4
+line0=Lelkem áldd az Urat, áldd az Urat! 
+line1=Egyedül Őt imádd! 
+line2=Zengj úgy, mint soha még, Őt dícsérd! 
+line3=Lelkem csak Téged áld! 
+soundfile=
+fotofile=
+
+[35]
+caption=Magasztaljon téged 
+lines=4
+line0=Magasztaljon Téged minden nyelv 
+line1=Dicsérje és áldja szent neved 
+line2=Áldott légy Uram, áldott 
+line3=Nagyságod előtt most hódolunk 
+soundfile=
+fotofile=
+
+[36]
+caption=Szépséges Jézus / 1 
+lines=4
+line0=Szépséges Jézus, Úr a földön s égen, 
+line1=Isten s szent Szűz gyermeke: 
+line2=Téged kívánlak, Téged imádlak 
+line3=Ó! lelkemnek éke, üdve, te! 
+soundfile=
+fotofile=
+
+[37]
+caption=Szépséges Jézus / 2 
+lines=4
+line0=Szépek a rétek, erdeink is szépek, 
+line1=Hogyha itt a szép tavasz. 
+line2=Jézusom még szebb, Jézusom ékesb, 
+line3=Beteg szívemnek Ő vigasz. 
+soundfile=
+fotofile=
+
+[38]
+caption=Szépséges Jézus / 3 
+lines=4
+line0=Szép a derűs hold, csillagos az égbolt, 
+line1=Szép a nap, ha fenn ragyog. 
+line2=Jézusom ékesb, egymaga fényesb, 
+line3=Mint mennyben fenn az angyalok. 
+soundfile=
+fotofile=
+
+[39]
+caption=Szépséges Jézus / 4 
+lines=4
+line0=Boldogság, épség, égi-földi szépség 
+line1=Csak tenálad van, tudom. 
+line2=Semmi a földön úgy be ne töltsön 
+line3=Miként Te, drága Jézusom. 
+soundfile=
+fotofile=
+
+[40]
+caption=Szentlélek, úgy kérünk, szállj le ránk / REF 
+lines=4
+line0=Szentlélek, úgy kérünk, szállj le ránk, 
+line1=Töltsd el a szívünk, életünk, 
+line2=Hogy béke és áldás szálljon ránk, 
+line3=Küldd el a Lelked, úgy kérünk, Istenünk. 
+soundfile=
+fotofile=
+
+[41]
+caption=Szentlélek, úgy kérünk, szállj le ránk / 1 
+lines=4
+line0=Kegyelmeddel táplálsz, Istenünk, 
+line1=Hozzád emeljük most mindnyájan a szívünk. 
+line2=Reménységünk Belőled fakad, 
+line3=Hogyha szívünk-lelkünk mindentől szabad. 
+soundfile=
+fotofile=
+
+[42]
+caption=Szentlélek, úgy kérünk, szállj le ránk / REF 
+lines=4
+line0=Szentlélek, úgy kérünk, szállj le ránk, 
+line1=Töltsd el a szívünk, életünk, 
+line2=Hogy béke és áldás szálljon ránk, 
+line3=Küldd el a Lelked, úgy kérünk, Istenünk. 
+soundfile=
+fotofile=
+
+[43]
+caption=Szentlélek, úgy kérünk, szállj le ránk / 2 
+lines=4
+line0=Ajándékul Lelked küldted el, 
+line1=Hogy ne önmagunknak, hanem Annak éljünk, 
+line2=Aki értünk életét adta. 
+line3=Mi is átadjuk most Neked életünk. 
+soundfile=
+fotofile=
+
+[44]
+caption=Szentlélek, úgy kérünk, szállj le ránk / REF 
+lines=4
+line0=Szentlélek, úgy kérünk, szállj le ránk, 
+line1=Töltsd el a szívünk, életünk, 
+line2=Hogy béke és áldás szálljon ránk, 
+line3=Küldd el a Lelked, úgy kérünk, Istenünk. 
+soundfile=
+fotofile=
