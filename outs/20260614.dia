@@ -1,0 +1,522 @@
+[main]
+diaszam=49
+utf8=1
+
+[1]
+caption=Jöjj, itt az idő / 1 
+lines=5
+line0= 
+line1=Jöjj, itt az idő, hogy dicsérd! 
+line2=Jöjj, itt az idő, hogy átadd szíved! 
+line3=Jöjj úgy, ahogy vagy, és dicsérd! 
+line4=Jöjj úgy, ahogy vagy az Úr elé! Hát jöjj! 
+soundfile=
+fotofile=
+
+[2]
+caption=Jöjj, itt az idő / REF 
+lines=5
+line0= 
+line1=Egyszer minden nyelv megvallja, hogy Ő az Úr, 
+line2=és mindenki térdet hajt. 
+line3=A legnagyobb kincs mégis azokra vár, 
+line4=Kik most Őt választják! 
+soundfile=
+fotofile=
+
+[3]
+caption=Jöjj, itt az idő / 2 
+lines=5
+line0= 
+line1=Jöjj, itt az idő, hogy ébredj! 
+line2=Jöjj, itt az idő, hogy áldjuk Őt! 
+line3=Jöjj, szívedet add az Úrnak! 
+line4=Jöjj, imádd az Istent, úgy, ahogy vagy! Hát jöjj! 
+soundfile=
+fotofile=
+
+[4]
+caption=Jöjj, itt az idő / REF 
+lines=5
+line0= 
+line1=Egyszer minden nyelv megvallja, hogy Ő az Úr, 
+line2=és mindenki térdet hajt. 
+line3=A legnagyobb kincs mégis azokra vár, 
+line4=Kik most Őt választják! 
+soundfile=
+fotofile=
+
+[5]
+caption=Uram, irgalmazz (Augustin) 
+lines=4
+line0= 
+line1=Kyrie, Kyrie eleison. 
+line2=Christe, Christe eleison. 
+line3=Kyrie, Kyrie eleison. 
+soundfile=
+fotofile=
+
+[6]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 2/a 
+lines=4
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[9]
+caption=Tied a dicsőség / 2/b 
+lines=5
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[10]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[11]
+caption=Szentlélek jöjj, lobogó láng / 1 
+lines=5
+line0= 
+line1=Jöjj el élő vízforrás, 
+line2=Jöjj, a szívünk Téged vár, 
+line3=Jöjj, ki fényt adsz lelkünknek, 
+line4=Jöjj, úgy vágyunk Rád. 
+soundfile=
+fotofile=
+
+[12]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[13]
+caption=Szentlélek jöjj, lobogó láng / 2 
+lines=5
+line0= 
+line1=Jöjj igazság forrása, 
+line2=Jöjj, imádunk mindnyájan, 
+line3=Jöjj, reményünk éleszd fel, 
+line4=Jöjj kegyelmeddel. 
+soundfile=
+fotofile=
+
+[14]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[15]
+caption=Szentlélek jöjj, lobogó láng / 3 
+lines=5
+line0= 
+line1=Jöjj, a néped gyűjtsd egybe, 
+line2=Jöjj, az alvót ébreszd fel, 
+line3=Jöjj, a bűntől tisztíts meg, 
+line4=Bátoríts minket. 
+soundfile=
+fotofile=
+
+[16]
+caption=Szentlélek jöjj, lobogó láng / REF 
+lines=5
+line0= 
+line1=Szentlélek jöjj, lobogó láng, 
+line2=Szentlélek jöjj, a világ vár. 
+line3=Szentlélek jöjj, viharos szél, 
+line4=Jöjj, áradj szét. 
+soundfile=
+fotofile=
+
+[17]
+caption=Alleluja (Augustin) 
+lines=2
+line0= 
+line1=Allelúja 
+soundfile=
+fotofile=
+
+[18]
+caption=Hiszekegy / 1 
+lines=4
+line0=Hiszek az egy Istenben, mindenható Atyában, 
+line1=mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében. 
+line2=Hiszek az egy Úrban, Jézus Krisztusban, Isten egyszülött Fiában, 
+line3=aki az Atyától született az idő kezdete előtt. 
+soundfile=
+fotofile=
+
+[19]
+caption=Hiszekegy / 2 
+lines=4
+line0=Isten az Istentől, világosság a világosságtól, 
+line1=valóságos Isten a valóságos Istentől. 
+line2=Született, de nem teremtmény, 
+line3=az Atyával egylényegű és minden általa lett. 
+soundfile=
+fotofile=
+
+[20]
+caption=Hiszekegy / 3 
+lines=4
+line0=Értünk emberekért, a mi üdvösségünkért, leszállott a mennyből. 
+line1=Megtestesült a Szentlélek erejéből Szűz Máriától és emberré lett. 
+line2=Poncius Pilátus alatt értünk keresztre feszítették, 
+line3=kínhalált szenvedett és eltemették. 
+soundfile=
+fotofile=
+
+[21]
+caption=Hiszekegy / 4 
+lines=4
+line0=Harmadnapra föltámadott az Írások szerint, 
+line1=fölment a mennybe, ott ül az Atyának jobbján, 
+line2=de újra eljön dicsőségben ítélni élőket és holtakat 
+line3=és országának nem lesz vége. 
+soundfile=
+fotofile=
+
+[22]
+caption=Hiszekegy / 5 
+lines=5
+line0=Hiszek a Szentlélekben, Urunkban és éltetőnkben, 
+line1=aki az Atyától és Fiútól származik, 
+line2=akit éppúgy imádunk és dicsőítünk 
+line3=mint az Atyát és a Fiút, 
+line4=Ő szólt a próféták szavával. 
+soundfile=
+fotofile=
+
+[23]
+caption=Hiszekegy / 6 
+lines=4
+line0=Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban. 
+line1=Vallom az egy keresztséget a bűnök bocsánatára. 
+line2=Várom a holtak föltámadását 
+line3=és az eljövendő örök életet. Amen. 
+soundfile=
+fotofile=
+
+[24]
+caption=Kenyered és borod / 1 
+lines=5
+line0= 
+line1=Kenyered és borod táplál engem, 
+line2=Te gyógyítod szívem, hogyha fáj. 
+line3=Maradj velem úgy kérlek, Jézus, maradj velem, 
+line4=Tied vagyok, Néked élek már. 
+soundfile=
+fotofile=
+
+[25]
+caption=Kenyered és borod / 2 
+lines=5
+line0= 
+line1=Amíg Veled járok én az Úton, 
+line2=minden gondom mesze, messze száll. 
+line3=Maradj velem úgy kérlek, Jézus, maradj velem, 
+line4=Tied vagyok, Néked élek már. 
+soundfile=
+fotofile=
+
+[26]
+caption=Kenyered és borod / 3 
+lines=5
+line0= 
+line1=Leborulva hálát adok néked, 
+line2=szívemből most hála dala száll. 
+line3=Maradj velem úgy kérlek, Jézus, maradj velem, 
+line4=Tied vagyok, Neked élek már. 
+soundfile=
+fotofile=
+
+[27]
+caption=Szent vagy (Augustin) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus,\.Dominus Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna! Hosanna!\.Hosanna in excelsis Deo! :| 
+soundfile=
+fotofile=
+
+[28]
+caption=Isten báránya (Augustin) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi,\.miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi,\.dona nobis pacem. 
+soundfile=
+fotofile=
+
+[29]
+caption=Hívlak, Jézus / 1 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=Minden szív és gondolat felett, 
+line3=Mert jelenlétedből békesség árad, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[30]
+caption=Hívlak, Jézus / 2 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=Minden sötét függőség felett, 
+line3=Mert van remény és van teljes szabadság, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[31]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. 
+soundfile=
+fotofile=
+
+[32]
+caption=Hívlak, Jézus / 3 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus, 
+line2=A félelem és szorongás felett, 
+line3=A csüggedés vermében szenvedőkért 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[33]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=|: A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. :| 
+soundfile=
+fotofile=
+
+[34]
+caption=Hívlak, Jézus / B 
+lines=6
+line0=|: A hegytetőkről zengjen, 
+line1=Az utcán hirdessék, 
+line2=A sötétségen át kiáltsuk 
+line3=Jézus nagy nevét, 
+line4=Egész családomra 
+line5=Ragyogjon fel e név: Jézus :| 
+soundfile=
+fotofile=
+
+[35]
+caption=Hívlak, Jézus / REF 
+lines=6
+line0=|: A neved élet, 
+line1=A neved gyógyír, 
+line2=Neved erő! 
+line3=Láncokat tör szét, 
+line4=Szökik az árnyék, 
+line5=Fénye elől. :| 
+soundfile=
+fotofile=
+
+[36]
+caption=Hívlak, Jézus / 1 
+lines=5
+line0= 
+line1=Hatalmas neved kimondom, Jézus! 
+line2=Minden szív és gondolat felett, 
+line3=Mert jelenlétedből békesség árad, 
+line4=Hívlak, Jézus! 
+soundfile=
+fotofile=
+
+[37]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[38]
+caption=Anima Christi / 1 
+lines=5
+line0= 
+line1=Passio Christi conforta me. 
+line2=O bone Jesu, exaudi me. 
+line3=Intra vulnera tua 
+line4=absconde, absconde me. 
+soundfile=
+fotofile=
+
+[39]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[40]
+caption=Anima Christi / 2 
+lines=5
+line0= 
+line1=Ne permitas a te me separari. 
+line2=Ab hoste maligno defende me. 
+line3=In hora mortis meae 
+line4=voca me, voca me. 
+soundfile=
+fotofile=
+
+[41]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[42]
+caption=Anima Christi / 3 
+lines=5
+line0= 
+line1=Et iube me venire ad te, 
+line2=ut cum sanctis tuis laudem te 
+line3=per infinita saecula 
+line4=saeculorum. Amen. 
+soundfile=
+fotofile=
+
+[43]
+caption=Anima Christi / REF 
+lines=5
+line0= 
+line1=Anima Christi, sanctifica me. 
+line2=Corpus Christi, salva me. 
+line3=Sanguis Christi, inebria me. 
+line4=Aqua lateris Christi, lava me. 
+soundfile=
+fotofile=
+
+[44]
+caption=Indulj és menj / 1 
+lines=3
+line0= 
+line1=Indulj és menj, hirdesd szavam, népemhez küldelek én! 
+line2=Tövis és gaz, vér és panasz, meddig hallgassam még én? 
+soundfile=
+fotofile=
+
+[45]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=
+
+[46]
+caption=Indulj és menj / 2 
+lines=3
+line0= 
+line1=Tüzessé teszem ajkaidat, gyémánttá homlokodat, 
+line2=Népemnek őrévé rendellek én, lelkemet adom melléd! 
+soundfile=
+fotofile=
+
+[47]
+caption=Indulj és menj / REF 
+lines=3
+line0= 
+line1=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+line2=Küldelek én, megáldlak én, csak menj, és hirdesd szavam! 
+soundfile=
+fotofile=
+
+[48]
+caption=Áldásoddal megyünk / 1 
+lines=4
+line0=Áldásoddal megyünk, megyünk innen el, 
+line1=Néked énekelünk boldog éneket. 
+line2=Te vagy mindig velünk, ha útra kelünk, 
+line3=Őrizd életünk minden nap! 
+soundfile=
+fotofile=
+
+[49]
+caption=Áldásoddal megyünk / 2 
+lines=4
+line0=Minden nap dícsérünk Téged, jó Uram! 
+line1=Néked énekelünk vígan, boldogan. 
+line2=Maradj mindig velünk, ha útra kelünk, 
+line3=Őrizd életünk minden nap! 
+soundfile=
+fotofile=
