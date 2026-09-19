@@ -1,0 +1,30 @@
+caption=Áldom szent Neved / 1
+Áldom szent Neved, a mézzel folyó földeken,
+hol nincs hiányom semmiben, áldom Nevedet!
+Áldom szent Neved, ha az út a pusztán át vezet,
+a száraz, kietlen helyen áldom Nevedet!
+caption=Áldom szent Neved / preCH + REF
+Minden áldást dicséretté formál szívem,
+s ha körülzár a sötétség, azt mondom (én), hogy
+áldott legyen az Úr Neve, áldom Nevedet!
+Áldott legyen az Úr Neve, áldott legyen hatalmas Neved!
+caption=Áldom szent Neved / 2
+Áldom szent Neved, ha éppen minden rendben megy,
+ha napfényes az életem, áldom Nevedet!
+Áldom szent Neved akkor is ha szenvedek,
+bár könnyek között áldozom, áldom Nevedet!
+caption=Áldom szent Neved / preCH + REF
+Minden áldást dicséretté formál szívem,
+s ha körülzár a sötétség, azt mondom (én), hogy
+|: áldott legyen az Úr Neve, áldom Nevedet!
+Áldott legyen az Úr Neve, áldott legyen hatalmas Neved! :|
+caption=Áldom szent Neved / PEAK
+
+|: Te adsz és elveszel,
+Te adsz és elveszel,
+A szívem így felel,
+hogy áldott szent Neved! :|
+caption=Áldom szent Neved / REF
+
+|: Áldott legyen az Úr Neve, áldom Nevedet!
+Áldott legyen az Úr Neve, áldott legyen hatalmas Neved! :|
