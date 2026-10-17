@@ -1,0 +1,339 @@
+[main]
+diaszam=30
+utf8=1
+
+[1]
+caption=Teremts bennem 
+lines=6
+line0=|: Teremts bennem tiszta szívet, ó, Uram! 
+line1=Az erős lelket újítsd meg bennem! :| 
+line2=|: Ne vess el engem a Te orcád elől, 
+line3=Szentlelked ne vond meg tőlem! 
+line4=Támogass az engedelmesség lelkével, 
+line5=Szabadításod örömét add nekem! :| 
+soundfile=
+fotofile=
+
+[2]
+caption=Uram, irgalmazz (Sillye IV.) 
+lines=6
+line0=Uram, irgalmazz! 
+line1=Uram, irgalmazz! 
+line2=Krisztus, kegyelmezz! 
+line3=Krisztus, kegyelmezz! 
+line4=Uram, irgalmazz! 
+line5=Uram, irgalmazz! 
+soundfile=
+fotofile=
+
+[3]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=4
+line0=Dicsőség! Dicsőség a magasságban Istennek! 
+line1=Békesség a Földön minden jószándékú embernek! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+soundfile=
+fotofile=
+
+[4]
+caption=Dicsőség Kék:158 (Sillye III.) 
+lines=5
+line0=Dicsőség! Istenünkhöz, jó Atyánkhoz szálljon fel! 
+line1=Békesség! Béke, Öröm legyen minden emberrel! 
+line2= 
+line3=|: Dicsőség Neked Istenünk, mert megváltottad életünk! :| 
+line4=Dicsőség! Békesség! 
+soundfile=
+fotofile=
+
+[5]
+caption=Te vagy az út, te vagy az igazság / REF 
+lines=5
+line0= 
+line1=Te vagy az út, Te vagy az igazság, 
+line2=Te vagy az élet örökké. 
+line3=Győztél a keresztfán, a néped ezért áld: 
+line4=Te vagy az Úr, dicső király! 
+soundfile=
+fotofile=
+
+[6]
+caption=Te vagy az út, te vagy az igazság / 1 
+lines=5
+line0= 
+line1=Ha veled járom az utam, 
+line2=kitől is féljek, Uram? 
+line3=Megyek az úton, nincsen akadály, 
+line4=velem vagy, Jézus, nem kell más. 
+soundfile=
+fotofile=
+
+[7]
+caption=Te vagy az út, te vagy az igazság / REF 
+lines=5
+line0= 
+line1=Te vagy az út, Te vagy az igazság, 
+line2=Te vagy az élet örökké. 
+line3=Győztél a keresztfán, a néped ezért áld: 
+line4=Te vagy az Úr, dicső király! 
+soundfile=
+fotofile=
+
+[8]
+caption=Te vagy az út, te vagy az igazság / 2 
+lines=5
+line0= 
+line1=Amikor bajba kerülünk, 
+line2=szorosan fogjad a kezünk. 
+line3=Te vagy a Mester, őrizd a hitünk, 
+line4=hogy a nevedben győzhessünk! 
+soundfile=
+fotofile=
+
+[9]
+caption=Te vagy az út, te vagy az igazság / REF 
+lines=5
+line0= 
+line1=Te vagy az út, Te vagy az igazság, 
+line2=Te vagy az élet örökké. 
+line3=Győztél a keresztfán, a néped ezért áld: 
+line4=Te vagy az Úr, dicső király! 
+soundfile=
+fotofile=
+
+[10]
+caption=Gyönyörű vagy / 1 
+lines=5
+line0= 
+line1=Gyönyörű vagy én Uram, 
+line2=szívem mélyéből áldalak, 
+line3=szívem mélyéből áldalak. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[11]
+caption=Gyönyörű vagy / 2 
+lines=5
+line0= 
+line1=Lelked betölti életem, 
+line2=Benned ujjong, dalol szívem, 
+line3=Benned ujjong, dalol szívem. 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[12]
+caption=Gyönyörű vagy / 3 
+lines=5
+line0= 
+line1=Tegyél szívedre pecsétül, 
+line2=örök életet adj végül, 
+line3=örök életet adj végül! 
+line4=Alleluja, alleluja... 
+soundfile=
+fotofile=
+
+[13]
+caption=Hiszekegy / 1 
+lines=4
+line0=Hiszek az egy Istenben, mindenható Atyában, 
+line1=mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében. 
+line2=Hiszek az egy Úrban, Jézus Krisztusban, Isten egyszülött Fiában, 
+line3=aki az Atyától született az idő kezdete előtt. 
+soundfile=
+fotofile=
+
+[14]
+caption=Hiszekegy / 2 
+lines=4
+line0=Isten az Istentől, világosság a világosságtól, 
+line1=valóságos Isten a valóságos Istentől. 
+line2=Született, de nem teremtmény, 
+line3=az Atyával egylényegű és minden általa lett. 
+soundfile=
+fotofile=
+
+[15]
+caption=Hiszekegy / 3 
+lines=4
+line0=Értünk emberekért, a mi üdvösségünkért, leszállott a mennyből. 
+line1=Megtestesült a Szentlélek erejéből Szűz Máriától és emberré lett. 
+line2=Poncius Pilátus alatt értünk keresztre feszítették, 
+line3=kínhalált szenvedett és eltemették. 
+soundfile=
+fotofile=
+
+[16]
+caption=Hiszekegy / 4 
+lines=4
+line0=Harmadnapra föltámadott az Írások szerint, 
+line1=fölment a mennybe, ott ül az Atyának jobbján, 
+line2=de újra eljön dicsőségben ítélni élőket és holtakat 
+line3=és országának nem lesz vége. 
+soundfile=
+fotofile=
+
+[17]
+caption=Hiszekegy / 5 
+lines=5
+line0=Hiszek a Szentlélekben, Urunkban és éltetőnkben, 
+line1=aki az Atyától és Fiútól származik, 
+line2=akit éppúgy imádunk és dicsőítünk 
+line3=mint az Atyát és a Fiút, 
+line4=Ő szólt a próféták szavával. 
+soundfile=
+fotofile=
+
+[18]
+caption=Hiszekegy / 6 
+lines=4
+line0=Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban. 
+line1=Vallom az egy keresztséget a bűnök bocsánatára. 
+line2=Várom a holtak föltámadását 
+line3=és az eljövendő örök életet. Amen. 
+soundfile=
+fotofile=
+
+[19]
+caption=Uram, Tehozzád futok / 1 
+lines=7
+line0=Uram, Tehozzád futok, 
+line1=Élő vízre szomjazom, 
+line2=Közelséged ó mily jó énnekem. 
+line3= 
+line4=Kérlek, ne menj el tőlem, 
+line5=Légy mindig segítségem, 
+line6=Úgy kívánlak Téged, Istenem. 
+soundfile=
+fotofile=
+
+[20]
+caption=Uram, Tehozzád futok / REF 
+lines=8
+line0=Én pedig szüntelen remélek, 
+line1=Egyre jobban dícsérlek, 
+line2=Ajkam beszéli a Te igazságodat. 
+line3= 
+line4=Hadd legyen most a dalom 
+line5=Jó illat oltárodon, 
+line6=|: Nagyon szeretlek Téged, :| 
+line7=Nagyon szeretlek Téged, Jézusom! 
+soundfile=
+fotofile=
+
+[21]
+caption=Szent vagy (Sillye IV.) 
+lines=3
+line0=Szent vagy, szent vagy, szent vagy Mindenség Ura, Istene! 
+line1=Dicsőséged betölti a Mennyet és a Földet. Hozsanna a magasságban! 
+line2=|: Áldott, aki jön az Úr nevében. Hozsanna a magasságban! :| 
+soundfile=
+fotofile=
+
+[22]
+caption=Isten báránya (Sillye IV.) 
+lines=3
+line0=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line1=Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk. 
+line2=Isten Báránya, te elveszed a világ bűneit: adj nekünk békét. 
+soundfile=
+fotofile=
+
+[23]
+caption=Napfívér, Holdnővér / 1 
+lines=7
+line0=Fivérem, Nap és nővérem, Hold, 
+line1=Oly' ritkán látlak, s hallom hangotok. 
+line2=Nyomaszt a sok gyötrelem és gond. 
+line3= 
+line4=Fivérem, szél és nővérem, lég, 
+line5=Nyisd ki a szemem, hogy lássam, ami szép. 
+line6=Körülölel ragyogás, dicsfény. 
+soundfile=
+fotofile=
+
+[24]
+caption=Napfívér, Holdnővér / 2 
+lines=6
+line0=Mert Isten műve minden földi lény, 
+line1=Érzem jóságát, s szívem újra él. 
+line2= 
+line3=Fivérem, Nap és nővérem, Hold, 
+line4=Most végre látlak, s hallom hangotok, 
+line5=És megölelném az egész világot. 
+soundfile=
+fotofile=
+
+[25]
+caption=Magasztaljon téged 
+lines=4
+line0=Magasztaljon Téged minden nyelv 
+line1=Dicsérje és áldja szent neved 
+line2=Áldott légy Uram, áldott 
+line3=Nagyságod előtt most hódolunk 
+soundfile=
+fotofile=
+
+[26]
+caption=Mária, Mária / REF 
+lines=8
+line0=Mária, Mária, szép virágszál, 
+line1=Mária, szikrázó Nap! 
+line2=Szeplőtlen fogantatott, ártatlan lány, 
+line3=Könyörögj érettünk, Anyánk! 
+line4=Mária, Mária, szép virágszál, 
+line5=Mária, szikrázó Nap! 
+line6=Védelmezz, magyarok Nagyasszonya! 
+line7=Imádkozz érettünk, Anyánk! 
+soundfile=
+fotofile=
+
+[27]
+caption=Mária, Mária / 1 
+lines=4
+line0=Nézd, önzésünk mély, sötét börtönbe zár, 
+line1=A hűtlenség kígyója szívünkre vár. 
+line2=Erőtlen gyermeked Hozzád kiált, 
+line3=Ne hagyj el, jöjj, segíts már! 
+soundfile=
+fotofile=
+
+[28]
+caption=Mária, Mária / REF 
+lines=8
+line0=Mária, Mária, szép virágszál, 
+line1=Mária, szikrázó Nap! 
+line2=Szeplőtlen fogantatott, ártatlan lány, 
+line3=Könyörögj érettünk, Anyánk! 
+line4=Mária, Mária, szép virágszál, 
+line5=Mária, szikrázó Nap! 
+line6=Védelmezz, magyarok Nagyasszonya! 
+line7=Imádkozz érettünk, Anyánk! 
+soundfile=
+fotofile=
+
+[29]
+caption=Mária, Mária / 2 
+lines=4
+line0=A szeretet hűsége szívedben ég, 
+line1=Mint hajnali verőfény, oly tiszta, szép. 
+line2=Lánglelked tűzjelét ragyogtasd ránk, 
+line3=Utunkon előttünk járj! 
+soundfile=
+fotofile=
+
+[30]
+caption=Mária, Mária / REF 
+lines=8
+line0=Mária, Mária, szép virágszál, 
+line1=Mária, szikrázó Nap! 
+line2=Szeplőtlen fogantatott, ártatlan lány, 
+line3=Könyörögj érettünk, Anyánk! 
+line4=Mária, Mária, szép virágszál, 
+line5=Mária, szikrázó Nap! 
+line6=Védelmezz, magyarok Nagyasszonya! 
+line7=Imádkozz érettünk, Anyánk! 
+soundfile=
+fotofile=
