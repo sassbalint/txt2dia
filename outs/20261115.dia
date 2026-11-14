@@ -1,0 +1,385 @@
+[main]
+diaszam=37
+utf8=1
+
+[1]
+caption=Csendben állok / 1 
+lines=4
+line0=Csendben állok, jelenlétedben, 
+line1=tiszta színed keresem. 
+line2=Csendben állok, Terád várok szüntelenül, 
+line3=vágylak, Uram, megismerni még jobban! 
+soundfile=
+fotofile=
+
+[2]
+caption=Csendben állok / REF 
+lines=4
+line0=Uram, a vágyam, hogy hangod hallhassam, 
+line1=ismerjem még jobban! 
+line2=Lelkem úgy várja, hogy arcod láthassa, 
+line3=ismerje még jobban! 
+soundfile=
+fotofile=
+
+[3]
+caption=Csendben állok / 2 
+lines=4
+line0=Gyorsan lépek, hátra nem nézek, 
+line1=jutalom az ígéret. 
+line2=Futok egyre, az akadályt mind félreteszem, 
+line3=célom csak egy: megismerni Téged! 
+soundfile=
+fotofile=
+
+[4]
+caption=Csendben állok / REF 
+lines=4
+line0=Uram, a vágyam, hogy hangod hallhassam, 
+line1=ismerjem még jobban! 
+line2=Lelkem úgy várja, hogy arcod láthassa, 
+line3=ismerje még jobban! 
+soundfile=
+fotofile=
+
+[5]
+caption=Uram, irgalmazz (Bonifác) 
+lines=3
+line0=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+line1=Christe eleison. Christe eleison. Christe eleison. 
+line2=Kyrie eleison. Kyrie eleison. Kyrie eleison. 
+soundfile=
+fotofile=
+
+[6]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[7]
+caption=Tied a dicsőség / 2/a 
+lines=4
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+soundfile=
+fotofile=
+
+[8]
+caption=Tied a dicsőség / 1 
+lines=4
+line0= 
+line1=|: Tied a dicsőség és imádás, 
+line2=Felemeljük kezeinket, 
+line3=Így dicsérjük szent neved. :| 
+soundfile=
+fotofile=
+
+[9]
+caption=Tied a dicsőség / 2/b 
+lines=5
+line0= 
+line1=|: Ó, hatalmas,\.kezed nagy csodákat tesz, 
+line2=Veled senki nem ér fel, 
+line3=Veled senki nem ér fel! :| 
+line4=Ó, hatalmas! 
+soundfile=
+fotofile=
+
+[10]
+caption=Te vagy az út, te vagy az igazság / REF 
+lines=5
+line0= 
+line1=Te vagy az út, Te vagy az igazság, 
+line2=Te vagy az élet örökké. 
+line3=Győztél a keresztfán, a néped ezért áld: 
+line4=Te vagy az Úr, dicső király! 
+soundfile=
+fotofile=
+
+[11]
+caption=Te vagy az út, te vagy az igazság / 1 
+lines=5
+line0= 
+line1=Ha veled járom az utam, 
+line2=kitől is féljek, Uram? 
+line3=Megyek az úton, nincsen akadály, 
+line4=velem vagy, Jézus, nem kell más. 
+soundfile=
+fotofile=
+
+[12]
+caption=Te vagy az út, te vagy az igazság / REF 
+lines=5
+line0= 
+line1=Te vagy az út, Te vagy az igazság, 
+line2=Te vagy az élet örökké. 
+line3=Győztél a keresztfán, a néped ezért áld: 
+line4=Te vagy az Úr, dicső király! 
+soundfile=
+fotofile=
+
+[13]
+caption=Te vagy az út, te vagy az igazság / 3 
+lines=5
+line0= 
+line1=Lelkünkbe írod szavadat, 
+line2=szeretetedre tanítasz. 
+line3=Ragyogjon fel hát szívünkben a fény! 
+line4=Vigyük a jó hírt: Krisztus él! 
+soundfile=
+fotofile=
+
+[14]
+caption=Te vagy az út, te vagy az igazság / REF 
+lines=5
+line0= 
+line1=Te vagy az út, Te vagy az igazság, 
+line2=Te vagy az élet örökké. 
+line3=Győztél a keresztfán, a néped ezért áld: 
+line4=Te vagy az Úr, dicső király! 
+soundfile=
+fotofile=
+
+[15]
+caption=Lelkem, az Urat dicsérd / 1 
+lines=4
+line0=Lelkem az Urat dicsérd, áldjad az Istenek Istenét! 
+line1=Jósága végtelen él, irgalma megmarad örökké! 
+line2= 
+line3=Alleluja, alleluja… 
+soundfile=
+fotofile=
+
+[16]
+caption=Lelkem, az Urat dicsérd / 2 
+lines=4
+line0=Minden szív áldjon Uram, magasztaljon Téged ég és föld! 
+line1=Beszéljék hatalmadat, zengjenek országod fényéről! 
+line2= 
+line3=Alleluja, alleluja… 
+soundfile=
+fotofile=
+
+[17]
+caption=Lelkem, az Urat dicsérd / 5 
+lines=4
+line0=Minden nap dicsérem Őt, áldom az Urat, míg élek én. 
+line1=Új dallal színe előtt ujjongva hirdetem szent nevét. 
+line2= 
+line3=Alleluja, alleluja… 
+soundfile=
+fotofile=
+
+[18]
+caption=Hiszekegy / 1 
+lines=4
+line0=Hiszek az egy Istenben, mindenható Atyában, 
+line1=mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében. 
+line2=Hiszek az egy Úrban, Jézus Krisztusban, Isten egyszülött Fiában, 
+line3=aki az Atyától született az idő kezdete előtt. 
+soundfile=
+fotofile=
+
+[19]
+caption=Hiszekegy / 2 
+lines=4
+line0=Isten az Istentől, világosság a világosságtól, 
+line1=valóságos Isten a valóságos Istentől. 
+line2=Született, de nem teremtmény, 
+line3=az Atyával egylényegű és minden általa lett. 
+soundfile=
+fotofile=
+
+[20]
+caption=Hiszekegy / 3 
+lines=4
+line0=Értünk emberekért, a mi üdvösségünkért, leszállott a mennyből. 
+line1=Megtestesült a Szentlélek erejéből Szűz Máriától és emberré lett. 
+line2=Poncius Pilátus alatt értünk keresztre feszítették, 
+line3=kínhalált szenvedett és eltemették. 
+soundfile=
+fotofile=
+
+[21]
+caption=Hiszekegy / 4 
+lines=4
+line0=Harmadnapra föltámadott az Írások szerint, 
+line1=fölment a mennybe, ott ül az Atyának jobbján, 
+line2=de újra eljön dicsőségben ítélni élőket és holtakat 
+line3=és országának nem lesz vége. 
+soundfile=
+fotofile=
+
+[22]
+caption=Hiszekegy / 5 
+lines=5
+line0=Hiszek a Szentlélekben, Urunkban és éltetőnkben, 
+line1=aki az Atyától és Fiútól származik, 
+line2=akit éppúgy imádunk és dicsőítünk 
+line3=mint az Atyát és a Fiút, 
+line4=Ő szólt a próféták szavával. 
+soundfile=
+fotofile=
+
+[23]
+caption=Hiszekegy / 6 
+lines=4
+line0=Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban. 
+line1=Vallom az egy keresztséget a bűnök bocsánatára. 
+line2=Várom a holtak föltámadását 
+line3=és az eljövendő örök életet. Amen. 
+soundfile=
+fotofile=
+
+[24]
+caption=Áldott Istenünk / 1a 
+lines=4
+line0=Áldott Istenünk, a szívünket fogadd el, 
+line1=Felajánljuk munkánk a kenyérrel! 
+line2=Kérünk, fogadd el ezt a fehér kenyeret, 
+line3=Hisz ezáltal leszünk eggyé Veled! 
+soundfile=
+fotofile=
+
+[25]
+caption=Áldott Istenünk / 1b 
+lines=4
+line0=A verejtékes munka áldott gyümölcse 
+line1=És sok millió ember élete, 
+line2=De egyszerű és köztünk élő valóság, 
+line3=Így jössz közénk Te is, Jézusunk! 
+soundfile=
+fotofile=
+
+[26]
+caption=Áldott Istenünk / 2a 
+lines=4
+line0=Áldott Istenünk, a kehelybe bort öntünk, 
+line1=Felajánljuk Néked minden örömünk! 
+line2=Kérünk, fogadd el ezt a kehely fehér bort, 
+line3=Hisz a véred egykor miértünk folyt! 
+soundfile=
+fotofile=
+
+[27]
+caption=Áldott Istenünk / 2b 
+lines=4
+line0=Átnyújtjuk most Neked szívünk, mindenünk, 
+line1=Fogadd el hát egész életünk! 
+line2=Te nagyszerű és üdvözítő Valóság, 
+line3=Kérünk, jöjj el közénk, Jézusunk! 
+soundfile=
+fotofile=
+
+[28]
+caption=Szent vagy (Bonifác) 
+lines=5
+line0=|: Sanctus, Sanctus, Sanctus, Deus Sabaoth! :| 
+line1=Pleni sunt caeli et terra gloria Tua. 
+line2=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+line3=Benedictus, qui venit in nomine Domini. 
+line4=|: Hosanna in excelsis Deo! Hosanna in excelsis! :| 
+soundfile=
+fotofile=
+
+[29]
+caption=Isten báránya (Bonifác) 
+lines=3
+line0=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line1=Agnus Dei, qui tollis peccata mundi, miserere nobis. 
+line2=Agnus Dei, qui tollis peccata mundi, dona nobis pacem. 
+soundfile=
+fotofile=
+
+[30]
+caption=Rejts most el / 1 
+lines=5
+line0=Rejts most el a szárnyad alá, erős kézzel takarj be engem. 
+line1=Tenger tombol, zúg, süvít a szél, 
+line2=Te emelsz fel a vihar fölé. 
+line3=Uralkodsz hullámok habjain, 
+line4=Szívem nem fél, Benned remél. 
+soundfile=
+fotofile=
+
+[31]
+caption=Rejts most el / 2 
+lines=5
+line0=Csak Istenben bízz én lelkem, mert Ő él, nagyobb mindennél. 
+line1=|: Tenger tombol, zúg, süvít a szél, 
+line2=Te emelsz fel a vihar fölé. 
+line3=Uralkodsz hullámok habjain, 
+line4=Szívem nem fél, Benned remél. :| 
+soundfile=
+fotofile=
+
+[32]
+caption=Isten gyöngédség / 1 
+lines=6
+line0=|: Isten gyöngédség, irgalom! :| 
+line1= 
+line2=Áldd, lelkem, áldd az Urat, 
+line3=Egész bensőm áldjad szent nevét! 
+line4=Áldd, lelkem, áldd az Urat, 
+line5=Nagy jóságát soha ne feledd! 
+soundfile=
+fotofile=
+
+[33]
+caption=Isten gyöngédség / 2 
+lines=6
+line0=|: Isten gyöngédség, irgalom! :| 
+line1= 
+line2=Megbocsátja minden bűnödet, 
+line3=Begyógyítja minden sebedet. 
+line4=Megváltja az életed a sírtól, 
+line5=Gyöngéd szeretettel koronáz. 
+soundfile=
+fotofile=
+
+[34]
+caption=Isten gyöngédség / 4 
+lines=6
+line0=|: Isten gyöngédség, irgalom! :| 
+line1= 
+line2=Az Úr irgalmas és kegyelmes, 
+line3=Haragja nem tart örökké. 
+line4=Amilyen messze van az ég a földtől, 
+line5=Oly nagy irgalma, ha félik Őt. 
+soundfile=
+fotofile=
+
+[35]
+caption=Köszönöm, Jézus / 1 
+lines=4
+line0=Köszönöm Jézus, köszönöm Jézus, 
+line1=Köszönöm Uram, hogy szeretsz engem. 
+line2=Köszönöm Jézus, köszönöm Jézus, 
+line3=Köszönöm Uram, hogy szeretsz engem. 
+soundfile=
+fotofile=
+
+[36]
+caption=Köszönöm, Jézus / 2 
+lines=2
+line0= 
+line1=Alleluja 
+soundfile=
+fotofile=
+
+[37]
+caption=Köszönöm, Jézus / 3 
+lines=4
+line0=Köszönöm Jézus, köszönöm Jézus, 
+line1=Köszönöm Uram, hogy szeretsz engem. 
+line2=Köszönöm Jézus, köszönöm Jézus, 
+line3=Köszönöm Uram, hogy szeretsz engem. 
+soundfile=
+fotofile=
